@@ -4,3 +4,5 @@ lib
 *.jar
 data
 target
+project
+.idea
