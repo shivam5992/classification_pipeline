@@ -1,0 +1,209 @@
+
+Category : 010-All or unspecified lines
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline
+topic_terms : 6
+batch_size : 100
+num_of_topics : 10
+batch_count : 1
+Topics : 
+0.016*party + 0.015*expenditure + 0.015*contribution + 0.013*tax + 0.013*committee + 0.013*public
+0.032*status + 0.025*person + 0.015*house + 0.014*age + 0.013*national + 0.013*law
+0.017*person + 0.015*firearm + 0.012*act + 0.009*court + 0.008*state + 0.008*license
+0.024*state + 0.019*rule + 0.017*agency + 0.017*law + 0.013*new + 0.013*business
+0.019*amend + 0.018*act + 0.017*district + 0.017*sec + 0.017*follow + 0.014*subtitle
+0.026*law + 0.017*person + 0.015*report + 0.012*subdivision + 0.010*chapter + 0.009*amend
+0.073*order + 0.039*support + 0.037*state + 0.025*child + 0.024*tribunal + 0.017*issue
+0.015*tax + 0.011*business + 0.010*income + 0.009*state + 0.008*corporation + 0.008*pursuant
+0.034*license + 0.024*act + 0.021*board + 0.015*state + 0.014*gamble + 0.013*riverboat
+0.024*law + 0.015*person + 0.015*certificate + 0.012*amend + 0.012*conviction + 0.011*offense
+
+-------------------------------------------------
+
+Category : 060-Health insurance  or  insurers
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline
+topic_terms : 6
+batch_size : 100
+num_of_topics : 10
+batch_count : 1
+Topics : 
+0.043*arkansas + 0.028*authority + 0.021*state + 0.020*division + 0.015*commission + 0.014*development
+0.040*cpap + 0.024*provider + 0.019*claimant + 0.017*consumer + 0.017*proceed + 0.017*contract
+0.031*law + 0.015*subdivision + 0.014*service + 0.013*amend + 0.011*part + 0.011*chapter
+0.045*insurance + 0.037*coverage + 0.027*policy + 0.022*health + 0.019*provide + 0.017*subsection
+0.034*health + 0.027*care + 0.018*plan + 0.016*service + 0.012*provider + 0.011*department
+0.047*care + 0.047*health + 0.017*law + 0.016*provider + 0.014*service + 0.011*provide
+0.020*department + 0.019*service + 0.019*hospital + 0.018*act + 0.018*care + 0.016*health
+0.023*medical + 0.022*hospital + 0.021*record + 0.020*provider + 0.013*alabama + 0.013*system
+0.025*drug + 0.021*physician + 0.019*patient + 0.015*treatment + 0.013*product + 0.012*license
+0.035*court + 0.022*program + 0.016*drug + 0.014*department + 0.012*correction + 0.010*follow
+
+-------------------------------------------------
+
+Category : 065-Health service corporations
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline
+topic_terms : 6
+batch_size : 100
+num_of_topics : 10
+batch_count : 1
+Topics : 
+0.025*health + 0.016*program + 0.016*care + 0.014*law + 0.011*provide + 0.009*facility
+0.044*school + 0.032*district + 0.025*state + 0.017*board + 0.017*fund + 0.016*amount
+0.042*health + 0.027*care + 0.018*service + 0.011*hospital + 0.009*center + 0.009*state
+0.019*coverage + 0.019*drug + 0.018*benefit + 0.018*insurance + 0.017*plan + 0.015*service
+0.025*law + 0.019*service + 0.012*subdivision + 0.012*state + 0.010*pursuant + 0.010*court
+0.050*school + 0.020*code + 0.019*revised + 0.018*community + 0.018*division + 0.016*sponsor
+0.046*arkansas + 0.029*authority + 0.021*state + 0.021*division + 0.016*commission + 0.014*department
+0.034*physician + 0.024*practice + 0.022*nurse + 0.018*care + 0.018*health + 0.017*register
+0.024*health + 0.024*insurance + 0.021*state + 0.019*care + 0.017*department + 0.013*information
+
+-------------------------------------------------
+
+Category : 080-Group insurance (all lines)
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline
+topic_terms : 6
+batch_size : 100
+num_of_topics : 10
+batch_count : 1
+Topics : 
+0.045*health + 0.033*care + 0.014*nrs + 0.014*plan + 0.013*act + 0.012*service
+0.044*service + 0.027*care + 0.021*provide + 0.020*health + 0.015*facility + 0.012*mean
+0.033*health + 0.020*policy + 0.020*insurer + 0.016*insurance + 0.012*organization + 0.011*contract
+0.049*order + 0.047*state + 0.044*support + 0.025*child + 0.025*tribunal + 0.014*agency
+0.028*year + 0.026*insure + 0.024*percent + 0.023*age + 0.021*insurance + 0.019*law
+0.032*law + 0.019*provide + 0.018*amend + 0.018*new + 0.017*read + 0.016*coverage
+0.027*patient + 0.020*request + 0.020*care + 0.019*health + 0.019*medication + 0.016*physician
+0.021*state + 0.017*chapter + 0.016*general + 0.015*person + 0.012*agency + 0.010*act
+0.026*service + 0.026*health + 0.020*care + 0.015*member + 0.014*community + 0.012*provide
+0.038*health + 0.033*care + 0.018*nurse + 0.016*patient + 0.015*plan + 0.011*service
+
+-------------------------------------------------
+
+Category : 300-The policy
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline
+topic_terms : 6
+batch_size : 100
+num_of_topics : 10
+batch_count : 1
+Topics : 
+0.029*law + 0.024*service + 0.019*article + 0.018*pursuant + 0.016*state + 0.016*limit
+0.032*network + 0.029*driver + 0.028*transportation + 0.025*tnc + 0.016*company + 0.015*provide
+0.035*law + 0.028*care + 0.024*health + 0.021*provider + 0.020*service + 0.017*define
+0.028*vehicle + 0.026*insurer + 0.022*insurance + 0.020*insure + 0.019*policy + 0.016*group
+0.022*regulation + 0.020*drug + 0.017*nrs + 0.017*patient + 0.013*pursuant + 0.012*product
+0.016*new + 0.015*act + 0.014*follow + 0.013*prescription + 0.013*amend + 0.012*insurance
+0.017*law + 0.014*person + 0.013*subdivision + 0.013*injury + 0.012*death + 0.012*amend
+0.018*law + 0.015*physician + 0.015*license + 0.014*commission + 0.011*sport + 0.010*professional
+0.033*health + 0.028*insurance + 0.016*state + 0.013*arkansas + 0.011*marketplace + 0.010*program
+0.033*health + 0.030*care + 0.019*trust + 0.013*service + 0.010*cost + 0.010*provide
+
+-------------------------------------------------
+
+Category : 580-Fees and taxes
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline
+topic_terms : 6
+batch_size : 100
+num_of_topics : 10
+batch_count : 1
+Topics : 
+0.020*trade + 0.018*agreement + 0.012*united + 0.012*act + 0.012*states + 0.009*paragraph
+0.018*security + 0.013*tax + 0.013*fire + 0.011*state + 0.011*premium + 0.009*offer
+0.033*provide + 0.024*fund + 0.016*program + 0.016*department + 0.014*purpose + 0.012*service
+0.022*insurance + 0.015*commissioner + 0.013*insurer + 0.012*chapter + 0.009*act + 0.008*state
+0.039*levy + 0.028*county + 0.027*tax + 0.023*fund + 0.013*city + 0.011*provide
+0.021*use + 0.019*property + 0.013*sale + 0.012*personal + 0.011*state + 0.010*tax
+0.044*vehicle + 0.023*motor + 0.020*license + 0.013*use + 0.013*state + 0.012*title
+0.019*law + 0.016*license + 0.012*marihuana + 0.012*subdivision + 0.011*person + 0.009*state
+0.036*tax + 0.029*credit + 0.025*income + 0.021*amount + 0.020*taxable + 0.014*taxpayer
+0.031*law + 0.019*tax + 0.017*act + 0.014*date + 0.013*provide + 0.013*board
+
+-------------------------------------------------
+
+Category : 720-Information practices
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline
+topic_terms : 6
+batch_size : 100
+num_of_topics : 10
+batch_count : 1
+Topics : 
+0.016*code + 0.015*person + 0.012*mean + 0.011*title + 0.009*sale + 0.009*property
+0.074*order + 0.033*court + 0.022*hear + 0.021*party + 0.019*restrain + 0.018*issue
+0.027*debt + 0.021*consumer + 0.011*follow + 0.011*action + 0.010*arbitrator + 0.010*arbitration
+0.012*provide + 0.010*subsection + 0.007*health + 0.007*act + 0.007*service + 0.006*association
+0.016*vehicle + 0.016*agency + 0.015*health + 0.014*authority + 0.013*tow + 0.012*local
+0.020*law + 0.015*commissioner + 0.015*tax + 0.014*article + 0.013*insurance + 0.012*pursuant
+0.016*information + 0.015*person + 0.013*law + 0.013*record + 0.011*agency + 0.010*public
+0.032*vehicle + 0.019*motor + 0.017*insurance + 0.013*company + 0.012*coverage + 0.012*provide
+0.039*health + 0.023*provider + 0.021*care + 0.018*service + 0.013*plan + 0.011*payment
+0.033*tax + 0.014*department + 0.012*credit + 0.012*use + 0.011*florida + 0.010*chapter
+
+-------------------------------------------------
+
+Category : 800-Legal procedure  or  proceedings
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline
+topic_terms : 6
+batch_size : 100
+num_of_topics : 10
+batch_count : 1
+Topics : 
+0.035*public + 0.027*work + 0.021*contract + 0.018*project + 0.018*contractor + 0.014*sec
+0.025*marijuana + 0.020*retail + 0.011*party + 0.011*product + 0.010*person + 0.010*action
+0.026*law + 0.015*subdivision + 0.013*state + 0.012*amend + 0.010*commissioner + 0.010*follow
+0.037*law + 0.032*degree + 0.022*define + 0.018*subdivision + 0.016*penal + 0.016*commission
+0.025*vehicle + 0.022*owner + 0.017*agency + 0.015*person + 0.013*legal + 0.009*license
+0.029*health + 0.019*law + 0.019*service + 0.013*provide + 0.013*care + 0.010*amend
+0.040*school + 0.019*nrs + 0.016*district + 0.015*charter + 0.013*pursuant + 0.012*court
+0.017*vehicle + 0.016*violation + 0.016*chapter + 0.013*liability + 0.013*subdivision + 0.012*insurer
+0.025*tax + 0.019*cigarette + 0.015*department + 0.014*subsection + 0.013*tobacco + 0.013*distributor
+0.037*person + 0.013*nrs + 0.012*pursuant + 0.010*information + 0.009*abuse + 0.008*report
+
+-------------------------------------------------
+
+Category : 840-Government agencies
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline
+topic_terms : 6
+batch_size : 100
+num_of_topics : 10
+batch_count : 1
+Topics : 
+0.043*commission + 0.030*board + 0.019*statute + 0.013*election + 0.009*amend + 0.008*county
+0.024*law + 0.012*follow + 0.012*provide + 0.012*amend + 0.012*service + 0.012*disability
+0.017*person + 0.014*security + 0.014*chapter + 0.012*investment + 0.012*state + 0.011*order
+0.022*state + 0.020*secretary + 0.018*act + 0.014*person + 0.011*dealer + 0.010*security
+0.016*act + 0.015*state + 0.014*board + 0.014*law + 0.011*new + 0.009*follow
+0.050*employee + 0.039*employer + 0.035*injury + 0.028*compensation + 0.022*pay + 0.015*employment
+0.015*coverage + 0.014*statute + 0.013*limit + 0.013*signal + 0.013*vehicle + 0.013*traffic
+0.036*tax + 0.023*credit + 0.016*business + 0.015*property + 0.014*subsection + 0.013*state
+0.043*state + 0.022*license + 0.020*member + 0.019*compact + 0.018*board + 0.017*interstate
+0.033*order + 0.024*rule + 0.024*support + 0.021*state + 0.020*district + 0.020*tribunal
+
+-------------------------------------------------
+
+Category : 960-Federal Law citations
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline
+topic_terms : 6
+batch_size : 100
+num_of_topics : 10
+batch_count : 1
+Topics : 
+0.025*child + 0.016*service + 0.015*care + 0.014*department + 0.012*pursuant + 0.011*provide
+0.019*department + 0.019*operator + 0.018*tank + 0.017*owner + 0.014*underground + 0.014*storage
+0.017*united + 0.016*act + 0.014*states + 0.014*subsection + 0.012*person + 0.009*korea
+0.019*insurer + 0.015*license + 0.010*board + 0.009*act + 0.008*mean + 0.008*insurance
+0.021*tax + 0.013*property + 0.010*person + 0.010*school + 0.009*use + 0.009*income
+0.021*license + 0.017*vehicle + 0.016*driver + 0.015*code + 0.014*subsection + 0.014*commercial
+0.019*person + 0.017*security + 0.011*issuer + 0.011*chapter + 0.011*act + 0.011*investment
+0.031*health + 0.021*plan + 0.014*insurance + 0.013*employee + 0.012*care + 0.012*act
+0.036*department + 0.030*statute + 0.017*read + 0.016*professional + 0.013*financial + 0.013*amend
+0.016*act + 0.016*tax + 0.015*state + 0.013*income + 0.011*amount + 0.010*taxable
+
+-------------------------------------------------

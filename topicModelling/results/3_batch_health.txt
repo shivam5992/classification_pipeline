@@ -1,0 +1,103 @@
+
+1Category : 060-Health insurance  or  insurers
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline
+topic_terms : 6
+batch_size : 100
+num_of_topics : 10
+batch_count : 5
+Topics : 
+0.036*arkansas + 0.022*authority + 0.018*state + 0.016*division + 0.013*commission + 0.013*section
+0.034*section + 0.021*law + 0.011*amend + 0.011*service + 0.011*child + 0.010*subdivision
+0.014*act + 0.013*section + 0.012*department + 0.012*hospital + 0.011*health + 0.011*service
+0.014*medical + 0.012*person + 0.010*resource + 0.010*record + 0.008*hospital + 0.007*amount
+0.003*offer + 0.002*immunization + 0.002*influenza + 0.002*formulary + 0.002*discharge + 0.002*website
+0.031*care + 0.031*health + 0.017*service + 0.013*plan + 0.012*provide + 0.012*section
+0.014*cpap + 0.014*section + 0.011*nurse + 0.010*department + 0.009*provider + 0.009*chapter
+0.030*section + 0.023*law + 0.013*subdivision + 0.011*service + 0.010*amend + 0.009*chapter
+0.032*employee + 0.011*leave + 0.009*employer + 0.008*public + 0.007*birth + 0.006*absence
+0.040*health + 0.030*care + 0.023*section + 0.016*law + 0.013*provider + 0.012*new
+
+-------------------------------------------------
+
+2Category : 060-Health insurance  or  insurers
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline
+topic_terms : 6
+batch_size : 100
+num_of_topics : 10
+batch_count : 5
+Topics : 
+0.015*drug + 0.013*health + 0.011*provide + 0.010*section + 0.009*company + 0.009*service
+0.021*insurance + 0.018*section + 0.017*fee + 0.014*insurer + 0.011*nrs + 0.010*license
+0.020*section + 0.018*department + 0.010*county + 0.009*family + 0.009*provide + 0.008*license
+0.024*section + 0.016*board + 0.012*act + 0.008*may + 0.008*license + 0.007*practice
+0.017*section + 0.015*employee + 0.015*state + 0.013*tax + 0.012*disability + 0.010*credit
+0.024*health + 0.021*section + 0.019*care + 0.015*department + 0.012*plan + 0.011*service
+0.022*child + 0.017*support + 0.015*parent + 0.009*income + 0.009*section + 0.008*custody
+0.014*benefit + 0.011*spouse + 0.010*section + 0.010*resource + 0.008*determine + 0.008*amount
+0.032*service + 0.032*health + 0.020*section + 0.020*care + 0.017*plan + 0.012*provide
+0.021*state + 0.018*behavior + 0.017*license + 0.012*section + 0.011*care + 0.011*analyst
+
+-------------------------------------------------
+
+3Category : 060-Health insurance  or  insurers
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline
+topic_terms : 6
+batch_size : 100
+num_of_topics : 10
+batch_count : 5
+Topics : 
+0.016*state + 0.013*employee + 0.012*rcw + 0.010*benefit + 0.010*section + 0.010*service
+0.026*section + 0.015*department + 0.013*manage + 0.011*provider + 0.011*license + 0.010*amend
+0.025*health + 0.018*care + 0.014*insurance + 0.013*insurer + 0.013*provider + 0.012*policy
+0.023*health + 0.016*section + 0.013*act + 0.011*rcw + 0.011*tax + 0.011*care
+0.018*section + 0.012*care + 0.011*child + 0.010*health + 0.010*act + 0.009*plan
+0.028*principal + 0.020*power + 0.018*section + 0.017*agent + 0.017*attorney + 0.014*act
+0.022*care + 0.022*health + 0.021*patient + 0.020*treatment + 0.017*physician + 0.015*person
+0.022*section + 0.021*income + 0.019*amount + 0.017*taxpayer + 0.014*code + 0.012*tax
+0.026*test + 0.011*hiv + 0.010*crime + 0.010*section + 0.009*person + 0.009*state
+0.012*section + 0.011*drug + 0.011*health + 0.010*act + 0.010*board + 0.008*license
+
+-------------------------------------------------
+
+4Category : 060-Health insurance  or  insurers
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline
+topic_terms : 6
+batch_size : 100
+num_of_topics : 10
+batch_count : 5
+Topics : 
+0.014*section + 0.013*care + 0.011*health + 0.009*provide + 0.009*coverage + 0.009*patient
+0.018*cancer + 0.014*breast + 0.007*woman + 0.006*history + 0.006*one + 0.005*gene
+0.035*health + 0.034*care + 0.023*program + 0.011*provide + 0.010*service + 0.007*section
+0.020*section + 0.018*state + 0.017*fund + 0.015*department + 0.007*program + 0.007*may
+0.043*section + 0.019*general + 0.017*chapter + 0.013*follow + 0.013*health + 0.013*amend
+0.025*order + 0.018*support + 0.014*section + 0.014*tribunal + 0.013*state + 0.012*child
+0.024*health + 0.023*section + 0.015*plan + 0.014*service + 0.012*care + 0.011*benefit
+0.032*drug + 0.019*section + 0.013*dispense + 0.012*device + 0.011*act + 0.011*pharmacy
+
+-------------------------------------------------
+
+5Category : 060-Health insurance  or  insurers
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline
+topic_terms : 6
+batch_size : 100
+num_of_topics : 10
+batch_count : 5
+Topics : 
+0.014*review + 0.009*utilization + 0.008*notice + 0.007*person + 0.006*policyholder + 0.005*applicant
+0.025*section + 0.015*school + 0.015*law + 0.013*subdivision + 0.011*thousand + 0.009*two
+0.019*service + 0.017*section + 0.015*department + 0.015*program + 0.013*fund + 0.013*use
+0.025*section + 0.017*law + 0.017*health + 0.013*state + 0.012*service + 0.011*order
+0.016*practice + 0.016*physician + 0.015*license + 0.014*act + 0.013*nurse + 0.012*section
+0.018*health + 0.017*care + 0.015*person + 0.013*physician + 0.013*patient + 0.013*make
+0.031*health + 0.022*section + 0.018*care + 0.018*insurance + 0.014*coverage + 0.013*plan
+0.007*infertility + 0.005*vitro + 0.005*fertilization + 0.002*dense + 0.002*woman + 0.002*spouse
+0.018*fund + 0.017*state + 0.013*section + 0.012*expense + 0.011*appropriation + 0.011*school
+0.027*defendant + 0.025*code + 0.023*section + 0.018*supervision + 0.016*community + 0.014*article
+
+-------------------------------------------------

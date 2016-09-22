@@ -1,0 +1,360 @@
+
+Category : 010-All or unspecified lines
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline1
+topic_terms : 10
+batch_size : 500
+num_of_topics : 25
+batch_count : 1
+Topics : 
+0.060*employee + 0.029*benefit + 0.028*employer + 0.023*retirement + 0.017*plan + 0.015*pay + 0.013*payment + 0.013*compensation + 0.013*state + 0.011*salary
+0.051*court + 0.021*party + 0.020*action + 0.016*attorney + 0.014*proceed + 0.013*file + 0.012*civil + 0.011*notice + 0.011*make + 0.011*case
+0.059*credit + 0.057*tax + 0.025*income + 0.021*taxable + 0.018*amount + 0.017*taxpayer + 0.014*allow + 0.013*qualify + 0.012*year + 0.012*subsection
+0.025*grant + 0.022*collegiate + 0.017*commission + 0.017*contest + 0.015*infrastructure + 0.013*house + 0.012*parte + 0.012*communication + 0.011*nebraska + 0.008*housing
+0.030*school + 0.027*district + 0.023*state + 0.022*board + 0.018*license + 0.015*act + 0.013*fund + 0.011*amount + 0.009*tax + 0.009*education
+0.040*use + 0.027*sale + 0.023*state + 0.014*vehicle + 0.013*equipment + 0.013*tax + 0.012*property + 0.012*include + 0.010*storage + 0.010*motor
+0.032*service + 0.025*subdivision + 0.019*commissioner + 0.015*care + 0.013*child + 0.012*provide + 0.011*health + 0.009*provider + 0.009*minnesota + 0.009*include
+0.023*fee + 0.016*person + 0.015*court + 0.013*act + 0.013*order + 0.013*minimum + 0.013*license + 0.012*clerk + 0.012*maximum + 0.012*fund
+0.039*company + 0.028*corporation + 0.023*liability + 0.022*limit + 0.016*state + 0.016*member + 0.014*file + 0.012*business + 0.011*person + 0.011*organization
+0.020*person + 0.017*court + 0.016*firearm + 0.015*order + 0.012*act + 0.011*judge + 0.010*defendant + 0.009*appeal + 0.008*criminal + 0.008*subsection
+0.069*order + 0.051*support + 0.048*state + 0.032*tribunal + 0.020*child + 0.017*issue + 0.015*enforcement + 0.014*foreign + 0.012*party + 0.011*proceed
+0.034*act + 0.019*code + 0.016*amend + 0.015*date + 0.014*electronic + 0.014*follow + 0.013*title + 0.010*bill + 0.010*version + 0.010*notice
+0.016*purchase + 0.016*property + 0.015*amendment + 0.014*ksa + 0.014*purpose + 0.014*service + 0.013*contractor + 0.013*sale + 0.012*tax + 0.011*carolina
+0.022*person + 0.020*child + 0.016*law + 0.009*provide + 0.009*department + 0.009*court + 0.009*chapter + 0.009*pursuant + 0.009*criminal + 0.008*parent
+0.030*insurance + 0.028*information + 0.022*insurer + 0.016*commissioner + 0.014*public + 0.012*act + 0.010*state + 0.010*person + 0.009*include + 0.009*security
+0.035*amend + 0.028*person + 0.024*statute + 0.022*read + 0.020*chapter + 0.019*word + 0.017*fin + 0.017*misdemeanor + 0.017*guilty + 0.016*class
+0.020*person + 0.016*debtor + 0.015*krs + 0.014*law + 0.014*status + 0.012*name + 0.012*statement + 0.010*house + 0.010*amend + 0.009*lease
+0.055*tax + 0.024*property + 0.019*sale + 0.019*service + 0.015*state + 0.015*department + 0.014*use + 0.012*person + 0.011*amount + 0.010*subsection
+0.014*license + 0.012*loan + 0.011*person + 0.009*consumer + 0.009*department + 0.008*business + 0.008*board + 0.008*provide + 0.008*officer + 0.008*service
+0.014*state + 0.013*fund + 0.012*credit + 0.011*oklahoma + 0.010*pursuant + 0.010*expenditure + 0.010*tax + 0.009*california + 0.009*provide + 0.009*student
+0.031*commission + 0.027*ors + 0.023*committee + 0.018*state + 0.018*oregon + 0.017*rule + 0.015*board + 0.015*member + 0.014*department + 0.013*amend
+0.016*sec + 0.014*amend + 0.013*act + 0.013*follow + 0.012*title + 0.011*subsection + 0.010*strike + 0.010*insert + 0.009*defense + 0.009*fund
+0.044*income + 0.035*amount + 0.034*taxable + 0.022*taxpayer + 0.017*internal + 0.017*revenue + 0.017*code + 0.016*include + 0.015*deduction + 0.014*tax
+0.022*project + 0.017*investment + 0.017*qualify + 0.016*state + 0.012*fund + 0.011*entity + 0.011*development + 0.011*business + 0.009*community + 0.009*act
+0.023*plan + 0.020*agency + 0.016*department + 0.016*local + 0.014*state + 0.013*government + 0.012*rule + 0.012*propose + 0.011*water + 0.010*permit
+
+-------------------------------------------------
+
+Category : 060-Health insurance  or  insurers
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline1
+topic_terms : 10
+batch_size : 500
+num_of_topics : 25
+batch_count : 1
+Topics : 
+0.027*employee + 0.025*state + 0.018*rcw + 0.013*board + 0.013*agency + 0.013*director + 0.013*service + 0.012*benefit + 0.010*information + 0.010*include
+0.022*provide + 0.022*treatment + 0.021*health + 0.019*coverage + 0.018*service + 0.017*drug + 0.017*care + 0.013*disorder + 0.013*include + 0.013*plan
+0.021*transportation + 0.021*company + 0.019*network + 0.019*state + 0.017*provide + 0.015*record + 0.014*information + 0.014*driver + 0.013*credit + 0.012*fee
+0.037*treatment + 0.033*person + 0.029*care + 0.027*health + 0.022*physician + 0.021*order + 0.019*patient + 0.017*decision + 0.015*medical + 0.015*make
+0.030*tax + 0.022*income + 0.020*amount + 0.018*taxpayer + 0.014*revenue + 0.014*state + 0.014*credit + 0.013*taxable + 0.011*property + 0.010*gross
+0.055*care + 0.050*health + 0.023*act + 0.019*facility + 0.014*hospital + 0.014*service + 0.012*patient + 0.011*plan + 0.010*provide + 0.010*nurse
+0.035*law + 0.028*health + 0.021*service + 0.020*amend + 0.016*subdivision + 0.015*chapter + 0.014*public + 0.013*commissioner + 0.012*follow + 0.011*provide
+0.045*patient + 0.018*individual + 0.018*physician + 0.017*health + 0.016*care + 0.014*request + 0.012*drug + 0.011*medical + 0.011*provider + 0.011*medication
+0.052*order + 0.048*support + 0.029*state + 0.022*tribunal + 0.021*child + 0.014*chapter + 0.013*proceed + 0.012*foreign + 0.012*issue + 0.010*enforcement
+0.028*fund + 0.024*state + 0.018*department + 0.012*program + 0.011*use + 0.011*fiscal + 0.010*service + 0.009*health + 0.008*provide + 0.008*appropriate
+0.027*principal + 0.022*medical + 0.018*agent + 0.016*person + 0.015*power + 0.014*test + 0.013*cannabis + 0.013*attorney + 0.012*act + 0.011*provide
+0.025*drug + 0.015*pharmacy + 0.012*prescription + 0.011*medical + 0.011*substance + 0.010*dispense + 0.010*mean + 0.010*person + 0.010*nurse + 0.010*control
+0.049*insurance + 0.046*health + 0.029*benefit + 0.026*plan + 0.025*coverage + 0.024*policy + 0.024*contract + 0.020*insurer + 0.018*provider + 0.018*service
+0.037*board + 0.037*dental + 0.032*license + 0.020*practice + 0.014*person + 0.013*register + 0.012*state + 0.012*service + 0.011*health + 0.011*practitioner
+0.043*health + 0.030*physician + 0.025*program + 0.018*participate + 0.014*insurer + 0.013*telehealth + 0.013*olorado + 0.010*wellness + 0.009*group + 0.009*information
+0.052*provider + 0.033*loss + 0.023*waiver + 0.020*cancellation + 0.019*medical + 0.019*hospital + 0.017*gap + 0.014*record + 0.011*charge + 0.011*say
+0.037*care + 0.035*service + 0.034*health + 0.022*department + 0.019*program + 0.016*provider + 0.013*provide + 0.011*medical + 0.010*plan + 0.009*federal
+0.046*child + 0.030*court + 0.022*juvenile + 0.020*family + 0.017*care + 0.017*parent + 0.010*party + 0.010*age + 0.010*provide + 0.010*foster
+0.026*drug + 0.019*act + 0.017*secretary + 0.017*subsection + 0.014*health + 0.012*paragraph + 0.011*use + 0.011*usc + 0.010*device + 0.009*information
+0.016*state + 0.015*defendant + 0.015*fund + 0.012*expense + 0.012*code + 0.012*community + 0.011*appropriation + 0.011*school + 0.011*indiana + 0.011*program
+0.035*school + 0.020*subdivision + 0.020*district + 0.018*law + 0.012*pursuant + 0.010*education + 0.010*provide + 0.009*amend + 0.009*paragraph + 0.009*service
+0.036*arkansas + 0.024*authority + 0.021*state + 0.020*division + 0.017*commission + 0.015*department + 0.013*development + 0.013*director + 0.013*board + 0.012*member
+0.024*physician + 0.021*practice + 0.019*nurse + 0.018*license + 0.016*act + 0.013*person + 0.012*mean + 0.011*health + 0.009*provide + 0.009*care
+0.021*law + 0.015*license + 0.014*subdivision + 0.012*amend + 0.011*service + 0.010*fee + 0.010*chapter + 0.010*pursuant + 0.010*state + 0.009*department
+0.028*department + 0.017*county + 0.016*subdivision + 0.014*pursuant + 0.013*code + 0.011*person + 0.011*fund + 0.011*provide + 0.010*family + 0.010*state
+
+-------------------------------------------------
+
+Category : 065-Health service corporations
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline1
+topic_terms : 10
+batch_size : 500
+num_of_topics : 25
+batch_count : 1
+Topics : 
+0.025*valuation + 0.023*insurance + 0.023*commissioner + 0.022*policy + 0.021*contract + 0.014*standard + 0.014*issue + 0.013*company + 0.012*manual + 0.011*annuity
+0.025*arkansas + 0.022*authority + 0.022*division + 0.021*code + 0.019*state + 0.017*school + 0.017*department + 0.011*community + 0.011*follow + 0.010*revised
+0.029*office + 0.019*department + 0.016*community + 0.013*commission + 0.013*health + 0.012*credit + 0.012*center + 0.012*act + 0.011*event + 0.010*license
+0.085*consumer + 0.044*victim + 0.031*report + 0.027*protect + 0.021*agency + 0.017*advocate + 0.017*security + 0.016*opioid + 0.015*sexual + 0.013*analgesic
+0.033*child + 0.019*department + 0.018*family + 0.016*home + 0.014*care + 0.013*agency + 0.013*foster + 0.012*placement + 0.011*county + 0.011*program
+0.082*drug + 0.038*product + 0.033*code + 0.031*device + 0.029*revised + 0.018*use + 0.018*investigational + 0.018*board + 0.013*division + 0.012*mercury
+0.024*member + 0.024*employee + 0.023*retirement + 0.017*benefit + 0.013*service + 0.012*board + 0.011*employer + 0.010*amount + 0.010*state + 0.010*contribution
+0.041*health + 0.029*care + 0.024*patient + 0.016*provider + 0.015*information + 0.010*provide + 0.010*physician + 0.010*act + 0.009*include + 0.008*request
+0.064*board + 0.044*dental + 0.024*member + 0.018*oregon + 0.017*oral + 0.016*review + 0.016*public + 0.015*amend + 0.013*subcommittee + 0.012*state
+0.065*school + 0.047*district + 0.030*state + 0.019*education + 0.018*board + 0.018*fund + 0.018*amount + 0.012*ksa + 0.011*tax + 0.011*amendment
+0.025*rate + 0.023*commissioner + 0.019*june + 0.017*sec + 0.015*facility + 0.014*end + 0.013*fiscal + 0.013*vsa + 0.011*department + 0.009*provide
+0.030*practice + 0.022*physician + 0.022*license + 0.021*nurse + 0.021*board + 0.016*act + 0.012*medical + 0.011*mean + 0.010*register + 0.010*department
+0.034*health + 0.030*service + 0.029*care + 0.022*provide + 0.021*law + 0.017*facility + 0.014*amend + 0.014*medical + 0.013*hospital + 0.012*new
+0.016*fund + 0.015*chapter + 0.014*general + 0.012*state + 0.012*committee + 0.011*health + 0.010*department + 0.010*service + 0.010*follow + 0.010*program
+0.038*test + 0.034*medical + 0.025*care + 0.019*emergency + 0.017*person + 0.015*health + 0.014*provide + 0.013*pursuant + 0.013*personnel + 0.012*administer
+0.012*code + 0.011*subdivision + 0.011*pursuant + 0.009*department + 0.009*county + 0.008*provide + 0.007*state + 0.007*chapter + 0.007*service + 0.007*include
+0.027*law + 0.021*service + 0.015*subdivision + 0.014*state + 0.012*pursuant + 0.012*provide + 0.012*education + 0.011*court + 0.011*school + 0.011*article
+0.057*school + 0.036*student + 0.033*teacher + 0.018*board + 0.018*subdivision + 0.016*program + 0.016*minnesota + 0.016*license + 0.013*private + 0.012*career
+0.043*individual + 0.032*patient + 0.028*treatment + 0.027*facility + 0.020*person + 0.018*mental + 0.014*abuse + 0.014*service + 0.014*substance + 0.012*involuntary
+0.045*health + 0.029*plan + 0.027*care + 0.021*service + 0.021*benefit + 0.017*coverage + 0.016*insurance + 0.015*provide + 0.013*provider + 0.012*contract
+0.115*code + 0.092*virginia + 0.055*repeal + 0.046*amend + 0.044*west + 0.040*article + 0.034*relate + 0.031*bill + 0.018*terminate + 0.018*annotated
+0.033*subdivision + 0.020*commissioner + 0.019*minnesota + 0.017*paragraph + 0.014*plan + 0.013*service + 0.013*amend + 0.012*statutes + 0.011*sec + 0.009*health
+0.052*support + 0.047*order + 0.040*state + 0.037*child + 0.019*tribunal + 0.017*enforcement + 0.015*act + 0.012*foreign + 0.011*parent + 0.011*court
+0.022*retirement + 0.019*states + 0.019*united + 0.015*plan + 0.014*service + 0.014*news + 0.014*freedom + 0.013*agency + 0.013*board + 0.013*international
+0.047*plan + 0.032*benefit + 0.026*employee + 0.015*local + 0.015*officer + 0.015*provide + 0.012*law + 0.012*service + 0.011*minimum + 0.011*chapter
+
+-------------------------------------------------
+
+Category : 080-Group insurance (all lines)
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline1
+topic_terms : 10
+batch_size : 500
+num_of_topics : 25
+batch_count : 1
+Topics : 
+0.045*member + 0.035*retirement + 0.024*system + 0.023*employee + 0.021*service + 0.015*retire + 0.014*provide + 0.013*subsection + 0.012*board + 0.011*employer
+0.050*child + 0.022*parent + 0.013*act + 0.013*illinois + 0.013*person + 0.011*court + 0.009*state + 0.009*health + 0.007*claim + 0.007*family
+0.045*tax + 0.043*levy + 0.033*county + 0.031*district + 0.022*mill + 0.020*fund + 0.019*property + 0.018*taxable + 0.015*dollar + 0.014*school
+0.028*patient + 0.026*provider + 0.025*request + 0.024*medication + 0.022*care + 0.021*health + 0.021*physician + 0.017*individual + 0.013*pain + 0.013*article
+0.073*health + 0.056*care + 0.023*provider + 0.020*plan + 0.016*information + 0.013*service + 0.012*provide + 0.012*program + 0.011*include + 0.010*act
+0.033*clinic + 0.031*health + 0.029*community + 0.021*hospital + 0.019*nonprofit + 0.017*provide + 0.016*benefit + 0.014*contraceptive + 0.014*office + 0.012*service
+0.054*school + 0.042*student + 0.016*fhsaa + 0.015*athletic + 0.015*member + 0.014*association + 0.013*participate + 0.013*victim + 0.012*activity + 0.012*interscholastic
+0.132*drug + 0.084*coverage + 0.063*prescription + 0.037*insurance + 0.031*benefit + 0.030*provide + 0.030*contract + 0.029*policy + 0.022*plan + 0.021*use
+0.025*facility + 0.021*department + 0.017*care + 0.015*state + 0.013*service + 0.013*nurse + 0.012*license + 0.011*agency + 0.011*person + 0.009*resident
+0.046*dental + 0.025*health + 0.020*mnsure + 0.018*subcommittee + 0.016*patient + 0.016*therapy + 0.016*practice + 0.015*step + 0.015*board + 0.014*review
+0.038*health + 0.023*insurance + 0.020*insurer + 0.017*plan + 0.016*policy + 0.015*organization + 0.015*state + 0.013*benefit + 0.012*coverage + 0.012*maintenance
+0.036*credit + 0.033*tax + 0.019*provide + 0.019*begin + 0.017*council + 0.017*october + 0.016*end + 0.015*period + 0.014*amount + 0.014*amend
+0.031*policy + 0.031*commissioner + 0.025*insurance + 0.025*rcw + 0.020*contract + 0.018*valuation + 0.016*company + 0.016*issue + 0.016*interest + 0.015*premium
+0.062*law + 0.029*amend + 0.028*new + 0.026*service + 0.024*read + 0.021*follow + 0.019*paragraph + 0.019*insurance + 0.018*provide + 0.017*add
+0.030*patient + 0.023*treatment + 0.022*facility + 0.020*provider + 0.020*care + 0.014*resident + 0.013*medical + 0.012*physician + 0.011*health + 0.010*person
+0.030*use + 0.025*sale + 0.023*state + 0.013*tax + 0.012*property + 0.012*include + 0.012*personal + 0.012*subdivision + 0.011*vehicle + 0.011*report
+0.040*board + 0.024*department + 0.022*license + 0.021*code + 0.019*person + 0.017*amend + 0.017*follow + 0.017*read + 0.017*chapter + 0.017*advisory
+0.132*chapter + 0.110*general + 0.056*follow + 0.049*amend + 0.041*act + 0.039*version + 0.035*laws + 0.035*insert + 0.030*introduced + 0.028*insurance
+0.033*ors + 0.021*oregon + 0.013*subsection + 0.010*chapter + 0.010*service + 0.009*organization + 0.009*amend + 0.008*laws + 0.008*board + 0.008*record
+0.026*state + 0.025*member + 0.020*service + 0.015*benefit + 0.011*date + 0.011*contribution + 0.011*payment + 0.010*account + 0.010*employee + 0.009*annuity
+0.045*health + 0.043*service + 0.031*care + 0.020*provide + 0.020*medical + 0.014*treatment + 0.012*include + 0.010*provider + 0.009*mental + 0.009*disorder
+0.025*act + 0.019*health + 0.016*care + 0.016*statutes + 0.015*legislature + 0.015*review + 0.014*insurance + 0.013*version + 0.013*bill + 0.012*revised
+0.057*state + 0.043*order + 0.040*support + 0.022*child + 0.019*tribunal + 0.014*agency + 0.012*party + 0.012*enforcement + 0.011*issue + 0.009*law
+0.041*plan + 0.037*retirement + 0.031*subdivision + 0.025*service + 0.021*minnesota + 0.021*firefighter + 0.019*account + 0.018*fund + 0.017*subd + 0.016*volunteer
+0.017*program + 0.016*act + 0.015*secretary + 0.013*paragraph + 0.013*subsection + 0.012*state + 0.011*health + 0.011*usc + 0.011*mental + 0.010*grant
+
+-------------------------------------------------
+
+Category : 300-The policy
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline1
+topic_terms : 10
+batch_size : 500
+num_of_topics : 25
+batch_count : 1
+Topics : 
+0.026*physician + 0.018*license + 0.017*podiatric + 0.016*podiatrist + 0.015*law + 0.013*professional + 0.013*amend + 0.013*chapter + 0.012*care + 0.011*health
+0.030*insurance + 0.029*vehicle + 0.026*license + 0.019*motor + 0.018*commissioner + 0.014*person + 0.011*provide + 0.010*issue + 0.009*act + 0.009*marketplace
+0.025*school + 0.023*state + 0.022*educational + 0.022*agency + 0.018*education + 0.016*local + 0.015*student + 0.015*program + 0.014*act + 0.012*subsection
+0.063*health + 0.024*insurance + 0.023*act + 0.020*state + 0.014*ors + 0.013*care + 0.013*board + 0.012*organization + 0.012*provide + 0.011*maintenance
+0.023*officer + 0.021*law + 0.020*action + 0.016*enforcement + 0.014*person + 0.013*state + 0.011*attorney + 0.011*court + 0.009*government + 0.009*provide
+0.026*patient + 0.022*person + 0.019*individual + 0.016*applicant + 0.015*information + 0.014*act + 0.013*health + 0.013*request + 0.012*application + 0.012*mean
+0.048*insurance + 0.034*policy + 0.022*insurer + 0.012*provide + 0.012*date + 0.012*contract + 0.012*issue + 0.012*state + 0.011*law + 0.011*act
+0.040*care + 0.039*health + 0.029*service + 0.017*provider + 0.014*provide + 0.012*agency + 0.011*plan + 0.010*program + 0.010*department + 0.009*patient
+0.017*secretary + 0.014*transportation + 0.014*subsection + 0.012*title + 0.012*sec + 0.010*paragraph + 0.010*states + 0.010*fiscal + 0.010*plan + 0.010*insert
+0.023*law + 0.020*practice + 0.020*service + 0.018*license + 0.016*physician + 0.015*nurse + 0.012*person + 0.011*article + 0.011*mean + 0.011*provide
+0.042*unit + 0.037*association + 0.033*owner + 0.015*common + 0.014*interest + 0.012*subsection + 0.010*community + 0.010*board + 0.010*declaration + 0.009*provide
+0.044*employee + 0.035*employer + 0.030*compensation + 0.018*act + 0.018*injury + 0.013*pay + 0.012*provide + 0.011*worker + 0.010*employment + 0.009*disability
+0.021*school + 0.017*state + 0.015*business + 0.014*corporation + 0.012*county + 0.012*board + 0.012*chapter + 0.011*pursuant + 0.011*subsection + 0.011*nrs
+0.034*retirement + 0.030*member + 0.027*service + 0.019*benefit + 0.015*year + 0.013*provide + 0.011*percent + 0.011*allowance + 0.009*determine + 0.009*system
+0.026*person + 0.024*vehicle + 0.022*injury + 0.018*liability + 0.018*damage + 0.018*motor + 0.014*accident + 0.011*death + 0.011*loss + 0.010*limit
+0.022*claim + 0.022*act + 0.014*disease + 0.014*risk + 0.012*virginia + 0.011*follow + 0.011*relate + 0.010*amend + 0.010*trust + 0.009*legislative
+0.027*service + 0.023*tax + 0.022*health + 0.015*plan + 0.015*care + 0.015*subdivision + 0.014*individual + 0.013*medical + 0.012*amount + 0.012*payment
+0.024*health + 0.017*service + 0.016*provide + 0.015*commissioner + 0.014*june + 0.014*rate + 0.012*care + 0.011*facility + 0.009*end + 0.008*general
+0.056*network + 0.054*transportation + 0.038*driver + 0.035*company + 0.028*vehicle + 0.021*provide + 0.019*coverage + 0.017*insurance + 0.016*tnc + 0.012*passenger
+0.029*vehicle + 0.021*motor + 0.015*person + 0.014*permit + 0.013*safety + 0.013*state + 0.013*code + 0.012*operate + 0.011*driver + 0.011*license
+0.026*law + 0.024*fund + 0.024*state + 0.015*new + 0.014*amend + 0.013*chapter + 0.008*article + 0.008*public + 0.008*act + 0.008*pursuant
+0.053*plan + 0.050*benefit + 0.031*employee + 0.030*health + 0.023*coverage + 0.022*act + 0.017*insurance + 0.015*eligible + 0.014*amend + 0.013*date
+0.035*commission + 0.024*participant + 0.024*sport + 0.023*combative + 0.021*license + 0.021*professional + 0.018*match + 0.018*exhibition + 0.010*law + 0.009*state
+0.022*chapter + 0.021*general + 0.019*commonwealth + 0.017*department + 0.016*follow + 0.015*state + 0.015*laws + 0.013*house + 0.012*insert + 0.011*private
+0.043*coverage + 0.031*drug + 0.028*prescription + 0.026*health + 0.021*provide + 0.018*benefit + 0.015*plan + 0.014*law + 0.014*insurance + 0.014*group
+
+-------------------------------------------------
+
+Category : 580-Fees and taxes
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline1
+topic_terms : 10
+batch_size : 500
+num_of_topics : 25
+batch_count : 1
+Topics : 
+0.035*provide + 0.027*fund + 0.019*program + 0.018*department + 0.015*service + 0.013*purpose + 0.012*grant + 0.011*general + 0.010*office + 0.010*state
+0.052*income + 0.028*federal + 0.028*gross + 0.023*security + 0.020*tax + 0.017*receive + 0.015*state + 0.015*taxable + 0.015*adjust + 0.014*payment
+0.023*employee + 0.015*employer + 0.013*state + 0.013*act + 0.010*court + 0.010*commission + 0.010*provide + 0.010*subsection + 0.009*action + 0.009*pay
+0.023*subdivision + 0.021*commissioner + 0.013*council + 0.013*minnesota + 0.012*metropolitan + 0.011*state + 0.011*statutes + 0.009*subd + 0.009*plan + 0.009*fund
+0.022*person + 0.021*law + 0.018*license + 0.013*chapter + 0.011*marihuana + 0.010*mean + 0.008*subdivision + 0.008*amend + 0.008*state + 0.007*authority
+0.020*use + 0.018*property + 0.013*tax + 0.013*sale + 0.012*person + 0.011*equipment + 0.011*state + 0.011*personal + 0.010*service + 0.010*gross
+0.022*assistance + 0.017*person + 0.016*provide + 0.014*claim + 0.013*lien + 0.013*amend + 0.011*department + 0.011*property + 0.010*read + 0.010*cost
+0.017*amend + 0.017*code + 0.014*paragraph + 0.012*sec + 0.012*act + 0.011*strike + 0.011*plan + 0.011*make + 0.011*insert + 0.011*follow
+0.042*health + 0.032*care + 0.015*service + 0.014*medical + 0.013*report + 0.012*provide + 0.012*provider + 0.011*information + 0.010*state + 0.010*department
+0.068*school + 0.036*district + 0.026*education + 0.019*student + 0.016*program + 0.016*state + 0.013*board + 0.012*pupil + 0.010*aid + 0.009*teacher
+0.054*vehicle + 0.026*motor + 0.020*license + 0.018*registration + 0.018*state + 0.016*fee + 0.013*use + 0.013*person + 0.011*issue + 0.010*title
+0.033*credit + 0.026*individual + 0.021*begin + 0.020*nebraska + 0.017*agricultural + 0.016*act + 0.016*asset + 0.015*farmer + 0.015*tax + 0.015*taxable
+0.064*group + 0.052*domestic + 0.042*act + 0.023*benefit + 0.023*financial + 0.018*international + 0.017*member + 0.017*entity + 0.016*provision + 0.015*regulatory
+0.022*person + 0.015*commission + 0.013*disability + 0.010*handicap + 0.010*pursuant + 0.009*commissioner + 0.009*license + 0.009*mean + 0.008*seq + 0.008*service
+0.046*license + 0.030*department + 0.022*fee + 0.011*subsection + 0.011*require + 0.011*public + 0.011*record + 0.010*agent + 0.010*application + 0.010*home
+0.037*amount + 0.036*income + 0.035*taxable + 0.024*taxpayer + 0.017*tax + 0.015*equal + 0.015*include + 0.015*business + 0.015*person + 0.015*revenue
+0.028*licensed + 0.021*trade + 0.020*project + 0.020*mobility + 0.020*freight + 0.020*physician + 0.020*corporation + 0.019*professional + 0.016*dental + 0.014*pursuant
+0.033*levy + 0.027*county + 0.020*tax + 0.017*fund + 0.014*agreement + 0.013*trade + 0.011*city + 0.010*district + 0.010*authority + 0.009*provide
+0.060*tax + 0.060*credit + 0.020*amount + 0.018*taxpayer + 0.014*qualify + 0.014*subsection + 0.013*business + 0.013*income + 0.012*project + 0.012*state
+0.193*insurance + 0.084*insurer + 0.048*company + 0.026*coverage + 0.025*line + 0.025*policy + 0.024*provide + 0.021*liability + 0.020*audit + 0.017*financial
+0.075*law + 0.070*amend + 0.061*chapter + 0.036*follow + 0.036*act + 0.032*read + 0.028*pursuant + 0.026*new + 0.026*premium + 0.024*percent
+0.037*income + 0.030*revenue + 0.029*taxable + 0.028*amount + 0.027*code + 0.025*internal + 0.025*subdivision + 0.024*tax + 0.022*clause + 0.022*federal
+0.056*subdivision + 0.053*tax + 0.042*income + 0.030*effective + 0.030*rate + 0.023*percent + 0.020*date + 0.018*amount + 0.017*increase + 0.014*provide
+0.050*tax + 0.026*subsection + 0.022*property + 0.018*sale + 0.017*return + 0.015*chapter + 0.014*state + 0.014*file + 0.010*corporation + 0.010*use
+0.029*use + 0.023*tax + 0.020*sale + 0.018*state + 0.015*loan + 0.014*fuel + 0.012*vehicle + 0.011*property + 0.009*include + 0.008*motor
+
+-------------------------------------------------
+
+Category : 720-Information practices
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline1
+topic_terms : 10
+batch_size : 500
+num_of_topics : 25
+batch_count : 1
+Topics : 
+0.031*license + 0.019*portable + 0.019*electronics + 0.017*person + 0.014*vendor + 0.013*regulatory + 0.013*authority + 0.011*internet + 0.011*title + 0.011*qualify
+0.024*drug + 0.023*health + 0.018*pharmacy + 0.016*service + 0.013*coverage + 0.012*provider + 0.011*medical + 0.011*provide + 0.010*benefit + 0.010*prescription
+0.029*subdivision + 0.027*commissioner + 0.019*minnesota + 0.014*statutes + 0.009*water + 0.009*subd + 0.009*sec + 0.008*effective + 0.007*read + 0.007*use
+0.089*insurance + 0.037*insurer + 0.028*policy + 0.019*provide + 0.017*company + 0.016*coverage + 0.014*commissioner + 0.013*act + 0.013*insure + 0.011*law
+0.040*state + 0.029*corporation + 0.023*fee + 0.023*certificate + 0.022*reinstatement + 0.021*secretary + 0.018*file + 0.018*application + 0.018*date + 0.017*effective
+0.019*code + 0.014*company + 0.012*subsection + 0.012*person + 0.011*title + 0.011*mean + 0.010*foreign + 0.008*corporation + 0.008*transfer + 0.008*states
+0.082*health + 0.062*care + 0.026*service + 0.024*provider + 0.020*patient + 0.017*plan + 0.016*medical + 0.012*request + 0.012*organization + 0.011*provide
+0.037*child + 0.016*act + 0.015*department + 0.014*support + 0.013*court + 0.012*person + 0.012*parent + 0.010*illinois + 0.009*order + 0.008*provide
+0.026*rule + 0.021*agency + 0.020*person + 0.016*license + 0.013*read + 0.013*subsection + 0.012*chapter + 0.012*amend + 0.011*state + 0.011*issue
+0.057*network + 0.053*transportation + 0.049*company + 0.034*driver + 0.020*service + 0.020*provide + 0.014*vehicle + 0.013*coverage + 0.012*program + 0.012*use
+0.034*state + 0.030*board + 0.028*audit + 0.021*account + 0.020*fund + 0.020*public + 0.017*entity + 0.013*report + 0.013*examination + 0.012*corporation
+0.044*state + 0.032*information + 0.024*department + 0.019*agency + 0.016*service + 0.015*ors + 0.014*officer + 0.013*oregon + 0.012*chief + 0.012*tax
+0.015*subdivision + 0.014*death + 0.013*fund + 0.013*project + 0.013*county + 0.013*commissioner + 0.011*medical + 0.011*examiner + 0.011*transportation + 0.010*coroner
+0.025*provide + 0.023*fund + 0.018*program + 0.017*department + 0.013*service + 0.012*grant + 0.011*state + 0.011*general + 0.011*revenue + 0.011*purpose
+0.025*vehicle + 0.024*motor + 0.021*person + 0.018*liability + 0.015*injury + 0.015*coverage + 0.010*provide + 0.009*part + 0.008*damage + 0.008*policy
+0.021*person + 0.016*court + 0.013*class + 0.013*violation + 0.010*felony + 0.010*order + 0.009*offense + 0.009*pursuant + 0.007*criminal + 0.007*sentence
+0.035*loan + 0.033*mortgage + 0.027*credit + 0.025*consumer + 0.023*act + 0.012*time + 0.012*borrower + 0.011*director + 0.010*amend + 0.010*charge
+0.081*order + 0.037*court + 0.025*party + 0.022*hear + 0.017*issue + 0.016*person + 0.016*restrain + 0.014*petitioner + 0.013*temporary + 0.012*notice
+0.023*person + 0.021*property + 0.021*attorney + 0.020*power + 0.019*principal + 0.017*act + 0.015*agent + 0.011*court + 0.009*authority + 0.009*trust
+0.017*association + 0.014*board + 0.012*vehicle + 0.010*provide + 0.010*department + 0.009*unit + 0.008*funeral + 0.008*vote + 0.008*code + 0.008*owner
+0.018*act + 0.014*subsection + 0.014*paragraph + 0.012*amend + 0.012*sec + 0.011*individual + 0.011*amount + 0.011*insert + 0.010*adjustment + 0.010*follow
+0.032*license + 0.018*act + 0.016*board + 0.015*person + 0.013*state + 0.011*tax + 0.009*gamble + 0.008*licensee + 0.008*illinois + 0.007*article
+0.023*public + 0.023*board + 0.021*member + 0.016*employee + 0.013*state + 0.012*service + 0.011*ors + 0.011*retirement + 0.010*chapter + 0.010*plan
+0.041*information + 0.020*record + 0.020*person + 0.015*security + 0.014*agency + 0.014*provide + 0.012*law + 0.010*breach + 0.009*personal + 0.009*data
+0.082*vehicle + 0.035*motor + 0.024*department + 0.020*owner + 0.014*certificate + 0.014*title + 0.011*tenant + 0.011*operator + 0.010*salvage + 0.010*provide
+
+-------------------------------------------------
+
+Category : 800-Legal procedure  or  proceedings
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline1
+topic_terms : 10
+batch_size : 500
+num_of_topics : 25
+batch_count : 1
+Topics : 
+0.018*act + 0.016*action + 0.015*person + 0.015*employee + 0.012*law + 0.011*claim + 0.010*injury + 0.010*date + 0.009*employer + 0.009*compensation
+0.049*owner + 0.028*unit + 0.026*association + 0.015*settlement + 0.015*structure + 0.014*mean + 0.014*purchaser + 0.013*seller + 0.012*agent + 0.012*property
+0.101*person + 0.022*sec + 0.020*subsection + 0.019*officer + 0.018*program + 0.017*drug + 0.016*court + 0.015*victim + 0.011*repeal + 0.009*year
+0.019*fee + 0.014*court + 0.013*state + 0.012*law + 0.012*fund + 0.012*county + 0.010*pursuant + 0.010*consumer + 0.009*board + 0.008*tax
+0.016*business + 0.016*project + 0.013*state + 0.012*department + 0.010*fund + 0.009*development + 0.009*investment + 0.009*economic + 0.009*provide + 0.009*tax
+0.027*insurance + 0.025*transportation + 0.024*network + 0.022*company + 0.019*policy + 0.017*provide + 0.017*vehicle + 0.016*commissioner + 0.016*driver + 0.015*insurer
+0.023*act + 0.019*fund + 0.017*available + 0.012*provided + 0.010*make + 0.009*states + 0.009*include + 0.009*sec + 0.009*usc + 0.008*united
+0.027*court + 0.022*order + 0.021*placement + 0.020*child + 0.015*chapter + 0.013*violation + 0.012*subdivision + 0.012*provide + 0.012*juvenile + 0.012*change
+0.019*tax + 0.018*state + 0.017*commission + 0.016*product + 0.013*marijuana + 0.012*retail + 0.011*insurance + 0.010*compact + 0.009*cigarette + 0.008*insurer
+0.035*state + 0.025*agency + 0.019*department + 0.018*rcw + 0.016*public + 0.016*rule + 0.010*general + 0.009*board + 0.009*commissioner + 0.009*safety
+0.095*school + 0.039*nrs + 0.037*district + 0.025*charter + 0.020*state + 0.018*board + 0.016*pursuant + 0.016*achievement + 0.015*public + 0.015*pupil
+0.038*provide + 0.022*fund + 0.017*program + 0.017*department + 0.014*service + 0.013*general + 0.012*grant + 0.012*chapter + 0.011*purpose + 0.010*expend
+0.035*license + 0.020*person + 0.018*vehicle + 0.012*department + 0.012*commercial + 0.012*chapter + 0.011*driver + 0.010*bureau + 0.010*issue + 0.009*subsection
+0.054*order + 0.040*state + 0.039*support + 0.029*child + 0.023*tribunal + 0.015*party + 0.014*issue + 0.013*proceed + 0.012*parent + 0.011*enforcement
+0.020*plan + 0.015*health + 0.013*subsection + 0.013*act + 0.013*paragraph + 0.011*payment + 0.010*secretary + 0.010*service + 0.009*insurance + 0.008*individual
+0.064*health + 0.044*care + 0.023*service + 0.020*provider + 0.018*provide + 0.017*medical + 0.016*license + 0.014*practice + 0.013*physician + 0.012*state
+0.031*law + 0.030*court + 0.024*subdivision + 0.018*service + 0.016*degree + 0.016*child + 0.015*amend + 0.014*criminal + 0.013*family + 0.013*chapter
+0.022*law + 0.015*code + 0.014*subdivision + 0.014*commissioner + 0.014*credit + 0.013*amount + 0.012*taxpayer + 0.012*tax + 0.011*income + 0.011*period
+0.022*facility + 0.022*act + 0.019*department + 0.014*care + 0.012*person + 0.011*resident + 0.009*state + 0.009*license + 0.009*health + 0.008*illinois
+0.031*limit + 0.030*partnership + 0.021*person + 0.017*liability + 0.017*state + 0.017*partner + 0.012*general + 0.011*name + 0.011*member + 0.009*entity
+0.021*service + 0.019*emergency + 0.016*medical + 0.013*vehicle + 0.013*person + 0.010*department + 0.009*provide + 0.008*use + 0.006*agency + 0.006*license
+0.047*statutes + 0.040*title + 0.036*revised + 0.028*chapter + 0.027*part + 0.026*action + 0.019*louisiana + 0.016*comprise + 0.013*party + 0.012*judgment
+0.021*information + 0.019*person + 0.017*property + 0.013*record + 0.012*law + 0.011*agency + 0.009*act + 0.009*ors + 0.009*use + 0.008*mean
+0.020*public + 0.015*read + 0.015*statute + 0.013*board + 0.013*work + 0.013*contract + 0.010*contractor + 0.009*agency + 0.009*facility + 0.009*county
+0.056*vehicle + 0.055*person + 0.048*violation + 0.037*motor + 0.028*offense + 0.022*amend + 0.019*conviction + 0.018*subsection + 0.018*felony + 0.015*follow
+
+-------------------------------------------------
+
+Category : 840-Government agencies
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline1
+topic_terms : 10
+batch_size : 500
+num_of_topics : 25
+batch_count : 1
+Topics : 
+0.045*service + 0.037*health + 0.031*state + 0.029*law + 0.028*license + 0.027*article + 0.024*corporation + 0.022*practice + 0.020*provide + 0.019*limit
+0.044*insurance + 0.026*insurer + 0.017*policy + 0.013*provide + 0.012*contract + 0.012*health + 0.011*subsection + 0.010*drug + 0.010*coverage + 0.010*benefit
+0.059*general + 0.049*chapter + 0.033*commonwealth + 0.029*follow + 0.027*laws + 0.024*word + 0.023*amend + 0.023*house + 0.023*insert + 0.020*appear
+0.019*chapter + 0.018*license + 0.017*state + 0.012*rcw + 0.012*mean + 0.011*department + 0.011*code + 0.011*authority + 0.010*medical + 0.008*business
+0.019*state + 0.018*act + 0.018*public + 0.015*officer + 0.013*law + 0.011*administrative + 0.011*agency + 0.010*office + 0.009*hear + 0.008*mean
+0.061*school + 0.037*district + 0.016*student + 0.016*fund + 0.014*pursuant + 0.013*county + 0.012*community + 0.011*levy + 0.011*fiscal + 0.011*board
+0.019*secretary + 0.015*subsection + 0.015*transportation + 0.015*fiscal + 0.014*state + 0.013*program + 0.013*states + 0.012*paragraph + 0.012*title + 0.010*project
+0.023*state + 0.016*program + 0.013*act + 0.012*secretary + 0.012*sec + 0.012*usc + 0.010*individual + 0.010*child + 0.008*assistance + 0.008*provide
+0.027*department + 0.026*license + 0.024*act + 0.012*person + 0.011*certificate + 0.011*broker + 0.008*practice + 0.008*provide + 0.007*agency + 0.007*real
+0.044*credit + 0.036*tax + 0.023*subsection + 0.020*amount + 0.018*taxpayer + 0.016*taxable + 0.015*property + 0.015*income + 0.014*year + 0.011*january
+0.052*information + 0.033*data + 0.016*record + 0.015*report + 0.014*act + 0.014*agency + 0.014*consumer + 0.014*electronic + 0.013*require + 0.013*entity
+0.024*plan + 0.019*birth + 0.019*person + 0.017*child + 0.016*benefit + 0.015*parent + 0.014*employee + 0.013*system + 0.013*tier + 0.013*information
+0.026*state + 0.021*ors + 0.018*oregon + 0.016*public + 0.015*department + 0.015*university + 0.014*agency + 0.014*board + 0.013*rule + 0.009*fund
+0.033*income + 0.029*taxable + 0.028*amount + 0.020*pesticide + 0.018*taxpayer + 0.015*person + 0.014*include + 0.013*internal + 0.013*revenue + 0.013*code
+0.036*license + 0.014*person + 0.014*department + 0.013*board + 0.011*status + 0.011*application + 0.010*applicant + 0.010*state + 0.009*law + 0.008*agent
+0.043*defendant + 0.033*code + 0.024*offense + 0.021*supervision + 0.020*community + 0.019*article + 0.017*criminal + 0.016*court + 0.013*judge + 0.012*felony
+0.046*person + 0.022*court + 0.016*ors + 0.014*subsection + 0.012*offender + 0.011*department + 0.011*state + 0.009*conviction + 0.009*record + 0.009*board
+0.041*health + 0.035*care + 0.022*service + 0.019*act + 0.018*law + 0.015*program + 0.014*provide + 0.013*new + 0.013*state + 0.011*provider
+0.066*order + 0.035*court + 0.025*party + 0.018*support + 0.018*notice + 0.017*hear + 0.017*issue + 0.016*person + 0.015*file + 0.013*pursuant
+0.021*security + 0.020*state + 0.016*act + 0.016*person + 0.013*order + 0.013*investment + 0.010*file + 0.009*issuer + 0.008*chapter + 0.008*registration
+0.028*employee + 0.025*employer + 0.024*compensation + 0.014*claim + 0.013*injury + 0.013*worker + 0.013*pay + 0.013*benefit + 0.011*disability + 0.011*time
+0.032*treatment + 0.027*person + 0.024*health + 0.020*facility + 0.018*mental + 0.018*rcw + 0.016*service + 0.013*use + 0.012*substance + 0.012*minor
+0.056*vehicle + 0.021*chapter + 0.019*motor + 0.016*law + 0.014*company + 0.013*transportation + 0.011*subdivision + 0.011*liability + 0.011*person + 0.011*violation
+0.032*tax + 0.020*property + 0.017*state + 0.017*income + 0.016*amount + 0.012*use + 0.012*revenue + 0.010*business + 0.010*sale + 0.010*federal
+0.044*commission + 0.043*board + 0.020*statute + 0.016*read + 0.014*amend + 0.013*election + 0.013*member + 0.013*provide + 0.010*office + 0.009*state
+
+-------------------------------------------------
+
+Category : 960-Federal Law citations
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline1
+topic_terms : 10
+batch_size : 500
+num_of_topics : 25
+batch_count : 1
+Topics : 
+0.018*act + 0.017*sec + 0.013*oil + 0.012*secretary + 0.011*energy + 0.010*gas + 0.010*states + 0.010*lease + 0.009*federal + 0.008*united
+0.022*defense + 0.019*sec + 0.014*secretary + 0.013*united + 0.012*subsection + 0.012*states + 0.011*program + 0.009*department + 0.009*paragraph + 0.009*act
+0.022*probation + 0.020*department + 0.019*officer + 0.018*court + 0.012*board + 0.012*person + 0.012*code + 0.011*child + 0.011*state + 0.010*service
+0.020*license + 0.011*person + 0.011*drug + 0.010*mean + 0.010*board + 0.010*service + 0.009*act + 0.009*physician + 0.008*provide + 0.008*employee
+0.040*act + 0.033*exchange + 0.018*federal + 0.017*insurance + 0.017*state + 0.017*chapter + 0.016*law + 0.016*carrier + 0.014*individual + 0.014*navigator
+0.036*department + 0.024*statute + 0.019*read + 0.019*amend + 0.018*professional + 0.015*employee + 0.014*financial + 0.013*institution + 0.011*standard + 0.011*board
+0.060*health + 0.038*plan + 0.020*coverage + 0.019*insurance + 0.017*care + 0.015*state + 0.015*individual + 0.013*benefit + 0.011*provide + 0.010*act
+0.055*license + 0.035*driver + 0.034*vehicle + 0.028*permit + 0.020*code + 0.019*class + 0.018*commercial + 0.017*person + 0.017*fee + 0.017*operate
+0.020*school + 0.018*department + 0.017*student + 0.017*program + 0.015*state + 0.014*organization + 0.012*commercial + 0.012*subsection + 0.012*sec + 0.012*fund
+0.024*state + 0.021*fund + 0.018*department + 0.010*program + 0.009*health + 0.008*provide + 0.008*fiscal + 0.007*use + 0.007*carolina + 0.007*school
+0.028*paragraph + 0.027*strike + 0.027*insert + 0.026*amend + 0.024*subsection + 0.023*subparagraph + 0.019*code + 0.019*act + 0.015*end + 0.015*follow
+0.041*income + 0.037*tax + 0.025*taxable + 0.024*amount + 0.020*taxpayer + 0.019*credit + 0.017*revenue + 0.016*code + 0.016*internal + 0.014*qualify
+0.092*action + 0.071*person + 0.042*civil + 0.038*court + 0.037*claim + 0.036*attorney + 0.035*article + 0.028*file + 0.027*complaint + 0.023*damage
+0.035*insurance + 0.025*insurer + 0.013*commissioner + 0.013*amend + 0.012*contract + 0.012*employee + 0.011*oklahoma + 0.010*chapter + 0.009*benefit + 0.009*authority
+0.019*state + 0.018*act + 0.012*tax + 0.012*property + 0.011*use + 0.011*business + 0.010*include + 0.010*board + 0.010*service + 0.009*illinois
+0.018*act + 0.017*insert + 0.017*usc + 0.017*financial + 0.016*federal + 0.015*company + 0.014*strike + 0.013*bank + 0.013*subsection + 0.011*amend
+0.016*person + 0.015*security + 0.011*investment + 0.011*chapter + 0.010*act + 0.010*state + 0.010*issuer + 0.008*order + 0.008*offer + 0.007*administrator
+0.013*state + 0.012*chapter + 0.011*service + 0.010*rhode + 0.009*island + 0.009*general + 0.009*provide + 0.008*fund + 0.007*retirement + 0.007*mean
+0.026*subdivision + 0.019*minnesota + 0.018*commissioner + 0.013*subd + 0.012*program + 0.012*statutes + 0.011*fund + 0.011*investment + 0.010*development + 0.009*provide
+0.031*benefit + 0.031*provider + 0.029*use + 0.028*care + 0.025*health + 0.018*performance + 0.017*carrier + 0.016*measurement + 0.014*limit + 0.013*monitor
+0.029*tax + 0.022*county + 0.019*department + 0.016*subsection + 0.016*person + 0.011*state + 0.010*property + 0.010*amount + 0.009*provide + 0.009*chapter
+0.024*service + 0.022*health + 0.017*program + 0.016*care + 0.014*provide + 0.013*department + 0.012*child + 0.010*individual + 0.010*mental + 0.009*include
+0.032*order + 0.031*support + 0.029*child + 0.024*state + 0.015*act + 0.013*agency + 0.012*family + 0.011*court + 0.010*pursuant + 0.010*information
+0.049*care + 0.024*state + 0.024*facility + 0.021*service + 0.016*information + 0.016*ombudsman + 0.015*longterm + 0.013*agency + 0.013*person + 0.013*resident
+0.018*use + 0.017*tax + 0.015*sale + 0.014*property + 0.011*state + 0.010*service + 0.009*person + 0.009*include + 0.009*subsection + 0.008*provide
+
+-------------------------------------------------

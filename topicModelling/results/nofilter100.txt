@@ -1,0 +1,191 @@
+
+Category : 010-All or unspecified lines
+passes : 30
+num_of_topics : 10
+limit : 100
+topic_terms : 6
+Topics : 
+0.019*debt + 0.017*settlement + 0.016*section + 0.013*license + 0.011*debtor + 0.010*may
+0.015*income + 0.012*member + 0.012*group + 0.012*section + 0.011*tax + 0.010*alabama
+0.024*section + 0.021*law + 0.017*certificate + 0.014*company + 0.013*insurance + 0.011*amend
+0.024*status + 0.019*person + 0.011*section + 0.011*law + 0.011*house + 0.011*age
+0.051*order + 0.035*support + 0.034*state + 0.022*tribunal + 0.016*section + 0.016*child
+0.016*section + 0.013*court + 0.013*person + 0.010*act + 0.009*firearm + 0.009*order
+0.019*section + 0.015*amend + 0.015*act + 0.015*district + 0.014*follow + 0.014*sec
+0.030*section + 0.018*law + 0.011*state + 0.011*subdivision + 0.010*report + 0.009*person
+0.024*license + 0.018*act + 0.016*board + 0.011*state + 0.010*gamble + 0.009*person
+0.005*financial + 0.005*plan + 0.003*planner + 0.002*sell + 0.002*retirement + 0.002*certification
+
+-------------------------------------------------
+
+Category : 060-Health insurance  or  insurers
+passes : 30
+num_of_topics : 10
+limit : 100
+topic_terms : 6
+Topics : 
+0.043*arkansas + 0.027*authority + 0.019*state + 0.019*division + 0.015*commission + 0.013*development
+0.024*court + 0.016*section + 0.015*program + 0.013*drug + 0.010*department + 0.009*correction
+0.033*care + 0.032*health + 0.019*provider + 0.015*section + 0.011*cpap + 0.008*law
+0.032*section + 0.024*law + 0.013*subdivision + 0.012*service + 0.010*amend + 0.009*state
+0.025*health + 0.019*section + 0.013*care + 0.012*provider + 0.011*program + 0.008*service
+0.007*resident + 0.003*representative + 0.003*adult + 0.002*medication + 0.002*fully + 0.002*legal
+0.021*section + 0.019*new + 0.018*insurance + 0.017*law + 0.017*insure + 0.015*health
+0.017*health + 0.013*section + 0.012*care + 0.012*coverage + 0.012*provide + 0.011*insurance
+0.017*physician + 0.012*section + 0.011*chapter + 0.009*license + 0.009*nurse + 0.009*subsection
+0.019*care + 0.016*department + 0.016*service + 0.016*health + 0.015*act + 0.015*hospital
+
+-------------------------------------------------
+
+Category : 065-Health service corporations
+passes : 30
+num_of_topics : 10
+limit : 100
+topic_terms : 6
+Topics : 
+0.018*patient + 0.012*device + 0.011*product + 0.011*investigational + 0.009*drug + 0.008*biological
+0.007*network + 0.006*referral + 0.005*refill + 0.005*professional + 0.005*stand + 0.005*enrollee
+0.026*care + 0.024*health + 0.024*physician + 0.020*nurse + 0.018*section + 0.017*practice
+0.011*section + 0.011*health + 0.009*medical + 0.009*information + 0.008*test + 0.007*provide
+0.022*health + 0.018*care + 0.016*facility + 0.008*patient + 0.008*provide + 0.007*practice
+0.045*school + 0.027*section + 0.018*code + 0.016*community + 0.016*revised + 0.015*division
+0.017*health + 0.016*section + 0.014*plan + 0.014*benefit + 0.013*service + 0.011*drug
+0.022*section + 0.017*school + 0.015*law + 0.014*state + 0.012*district + 0.011*service
+0.037*arkansas + 0.024*authority + 0.020*state + 0.017*division + 0.013*commission + 0.012*development
+0.030*health + 0.022*section + 0.016*care + 0.010*insurance + 0.010*service + 0.009*provide
+
+-------------------------------------------------
+
+Category : 080-Group insurance (all lines)
+passes : 30
+num_of_topics : 10
+limit : 100
+topic_terms : 6
+Topics : 
+0.023*patient + 0.021*care + 0.015*request + 0.014*medication + 0.013*section + 0.013*health
+0.028*section + 0.010*insurance + 0.010*person + 0.010*act + 0.010*law + 0.009*health
+0.038*state + 0.037*order + 0.034*support + 0.019*tribunal + 0.019*child + 0.015*section
+0.037*service + 0.021*care + 0.018*health + 0.014*provide + 0.013*facility + 0.011*mean
+0.016*section + 0.012*employee + 0.011*state + 0.011*pursuant + 0.011*health + 0.010*community
+0.038*section + 0.019*law + 0.014*chapter + 0.014*amend + 0.012*follow + 0.012*service
+0.034*health + 0.031*care + 0.021*service + 0.019*section + 0.010*provide + 0.010*provider
+0.028*health + 0.016*insurer + 0.016*policy + 0.013*insurance + 0.012*section + 0.010*organization
+0.010*member + 0.009*police + 0.007*duty + 0.006*salary + 0.006*state + 0.005*wag
+0.021*employee + 0.017*chiropractor + 0.016*physician + 0.013*injure + 0.012*insurer + 0.011*nrs
+
+-------------------------------------------------
+
+Category : 300-The policy
+passes : 30
+num_of_topics : 10
+limit : 100
+topic_terms : 6
+Topics : 
+0.014*section + 0.010*provide + 0.009*state + 0.009*unit + 0.008*association + 0.008*pursuant
+0.017*act + 0.016*section + 0.015*person + 0.010*insurance + 0.008*provide + 0.007*care
+0.039*law + 0.032*service + 0.022*article + 0.022*section + 0.017*practice + 0.016*education
+0.010*document + 0.009*record + 0.009*covenant + 0.008*restrictive + 0.006*modification + 0.004*status
+0.018*health + 0.016*drug + 0.014*section + 0.013*care + 0.012*prescription + 0.010*regulation
+0.031*insurer + 0.025*insure + 0.022*vehicle + 0.018*nrs + 0.015*motor + 0.011*section
+0.011*death + 0.007*child + 0.006*widow + 0.006*benefit + 0.006*widower + 0.005*proof
+0.019*network + 0.019*vehicle + 0.017*section + 0.016*driver + 0.015*transportation + 0.014*insurance
+0.025*health + 0.024*section + 0.013*care + 0.012*insurance + 0.011*law + 0.009*physician
+0.016*section + 0.013*commission + 0.010*sport + 0.010*combative + 0.009*license + 0.009*match
+
+-------------------------------------------------
+
+Category : 580-Fees and taxes
+passes : 30
+num_of_topics : 10
+limit : 100
+topic_terms : 6
+Topics : 
+0.008*rule + 0.006*council + 0.005*statement + 0.005*insurance + 0.004*check + 0.004*cost
+0.020*provide + 0.013*fund + 0.013*section + 0.010*department + 0.010*purpose + 0.009*service
+0.014*tax + 0.012*income + 0.011*state + 0.010*section + 0.008*corporation + 0.007*entity
+0.012*bail + 0.010*professional + 0.008*agent + 0.006*bondsman + 0.006*surety + 0.005*company
+0.010*action + 0.006*ors + 0.006*court + 0.004*subsection + 0.004*agricultural + 0.004*attorney
+0.033*levy + 0.027*section + 0.024*tax + 0.022*county + 0.019*fund + 0.019*may
+0.025*tax + 0.024*section + 0.019*income + 0.018*amount + 0.016*taxable + 0.015*credit
+0.025*section + 0.019*law + 0.018*license + 0.015*vehicle + 0.010*subdivision + 0.010*person
+0.017*section + 0.013*trade + 0.013*agreement + 0.013*insurance + 0.009*insurer + 0.009*act
+0.028*tax + 0.027*credit + 0.022*section + 0.012*amend + 0.010*percent + 0.009*one
+
+-------------------------------------------------
+
+Category : 720-Information practices
+passes : 30
+num_of_topics : 10
+limit : 100
+topic_terms : 6
+Topics : 
+0.018*tax + 0.014*section + 0.011*may + 0.008*provide + 0.008*association + 0.007*unit
+0.022*nrs + 0.018*vehicle + 0.016*tow + 0.014*license + 0.013*pursuant + 0.012*board
+0.013*section + 0.013*title + 0.011*person + 0.011*code + 0.006*lease + 0.006*article
+0.020*health + 0.014*local + 0.012*agency + 0.011*service + 0.011*bicycle + 0.011*authority
+0.062*order + 0.028*section + 0.028*court + 0.020*party + 0.019*hear + 0.016*may
+0.020*section + 0.017*information + 0.016*person + 0.015*record + 0.013*law + 0.011*agency
+0.018*section + 0.011*health + 0.010*subsection + 0.009*provide + 0.008*may + 0.007*act
+0.017*insurance + 0.014*section + 0.013*policy + 0.011*insurer + 0.011*law + 0.010*coverage
+0.030*vehicle + 0.019*motor + 0.014*section + 0.011*company + 0.010*service + 0.010*provide
+0.021*section + 0.014*law + 0.011*service + 0.010*insurance + 0.010*insurer + 0.010*information
+
+-------------------------------------------------
+
+Category : 800-Legal procedure  or  proceedings
+passes : 30
+num_of_topics : 10
+limit : 100
+topic_terms : 6
+Topics : 
+0.025*section + 0.010*license + 0.009*person + 0.007*may + 0.007*marijuana + 0.007*tax
+0.022*school + 0.022*section + 0.015*person + 0.010*law + 0.010*pursuant + 0.009*nrs
+0.011*rule + 0.007*comment + 0.006*dentist + 0.006*assessment + 0.005*agency + 0.005*discount
+0.025*public + 0.019*work + 0.013*section + 0.013*project + 0.013*contractor + 0.013*contract
+0.004*accredit + 0.003*digital + 0.003*image + 0.003*surgery + 0.003*intent + 0.003*specific
+0.028*action + 0.019*party + 0.018*court + 0.012*section + 0.011*may + 0.010*motion
+0.009*negligence + 0.005*percentage + 0.005*plaintiff + 0.004*comparative + 0.004*responsibility + 0.003*assign
+0.027*section + 0.024*vehicle + 0.017*owner + 0.010*subdivision + 0.010*agency + 0.009*chapter
+0.026*section + 0.023*law + 0.020*health + 0.012*service + 0.011*subdivision + 0.010*state
+0.016*provide + 0.014*nrs + 0.013*person + 0.012*service + 0.012*section + 0.011*require
+
+-------------------------------------------------
+
+Category : 840-Government agencies
+passes : 30
+num_of_topics : 10
+limit : 100
+topic_terms : 6
+Topics : 
+0.032*state + 0.013*section + 0.011*nurse + 0.011*law + 0.010*party + 0.010*license
+0.015*drug + 0.012*section + 0.011*violation + 0.009*prescription + 0.008*law + 0.008*county
+0.019*security + 0.017*investment + 0.017*person + 0.016*act + 0.015*state + 0.013*adviser
+0.026*employee + 0.017*injury + 0.016*employer + 0.015*compensation + 0.012*section + 0.012*act
+0.025*section + 0.017*law + 0.011*insurance + 0.010*amend + 0.010*follow + 0.009*state
+0.040*commission + 0.034*board + 0.021*statute + 0.018*section + 0.014*may + 0.010*election
+0.016*tax + 0.015*section + 0.014*state + 0.013*credit + 0.011*vehicle + 0.010*act
+0.026*state + 0.022*order + 0.020*rule + 0.014*support + 0.013*secretary + 0.013*act
+0.014*assistance + 0.012*child + 0.010*person + 0.010*secretary + 0.007*recipient + 0.007*section
+0.020*business + 0.012*zone + 0.012*enterprise + 0.011*tax + 0.011*department + 0.010*property
+
+-------------------------------------------------
+
+Category : 960-Federal Law citations
+passes : 30
+num_of_topics : 10
+limit : 100
+topic_terms : 6
+Topics : 
+0.026*united + 0.021*states + 0.019*north + 0.013*korea + 0.012*person + 0.011*act
+0.014*person + 0.013*security + 0.011*chapter + 0.010*state + 0.010*may + 0.009*issuer
+0.017*section + 0.013*insurer + 0.011*tax + 0.011*school + 0.008*law + 0.008*thousand
+0.017*section + 0.011*person + 0.011*action + 0.010*operator + 0.009*department + 0.009*asbestos
+0.018*section + 0.011*child + 0.010*license + 0.010*provide + 0.009*employee + 0.009*family
+0.023*section + 0.014*service + 0.013*child + 0.010*care + 0.010*health + 0.009*department
+0.027*health + 0.020*section + 0.017*plan + 0.011*care + 0.010*act + 0.010*insurance
+0.030*section + 0.027*department + 0.023*statute + 0.013*read + 0.012*professional + 0.011*financial
+0.017*section + 0.012*tax + 0.012*act + 0.011*state + 0.009*income + 0.009*use
+0.005*percent + 0.003*income + 0.003*poverty + 0.002*federal + 0.002*line + 0.002*marrow
+
+-------------------------------------------------
+[Finished in 748.0s]

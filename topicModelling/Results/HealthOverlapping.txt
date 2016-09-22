@@ -1,0 +1,124 @@
+
+Category : 060-Health insurance  or  insurers
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline1
+topic_terms : 10
+batch_size : 200
+num_of_topics : 20
+batch_count : 10
+Topics : 
+0.045*arkansas + 0.027*authority + 0.021*state + 0.019*division + 0.017*commission + 0.015*director + 0.015*department + 0.014*development + 0.013*board + 0.012*fund
+0.039*health + 0.030*service + 0.025*care + 0.021*provide + 0.020*law + 0.019*insurance + 0.015*coverage + 0.013*new + 0.012*organization + 0.012*contract
+0.042*behavior + 0.037*license + 0.025*disorder + 0.025*analyst + 0.023*autism + 0.022*mean + 0.022*care + 0.022*person + 0.019*provide + 0.017*spectrum
+0.023*drug + 0.021*health + 0.017*emergency + 0.013*state + 0.013*administer + 0.012*administration + 0.011*chemotherapy + 0.010*waste + 0.010*treatment + 0.010*patient
+0.063*state + 0.034*employee + 0.017*contribution + 0.015*fund + 0.015*benefit + 0.015*unit + 0.015*service + 0.013*bargaining + 0.013*employer + 0.012*bill
+0.047*employee + 0.034*benefit + 0.031*disability + 0.028*period + 0.020*participate + 0.018*program + 0.015*compensation + 0.015*day + 0.012*state + 0.011*leave
+0.059*drug + 0.027*patient + 0.023*device + 0.021*product + 0.021*act + 0.020*treatment + 0.015*chapter + 0.013*general + 0.013*health + 0.013*care
+0.021*care + 0.020*department + 0.020*hospital + 0.019*facility + 0.018*health + 0.018*service + 0.017*act + 0.012*illinois + 0.011*nurse + 0.010*license
+0.022*dental + 0.019*care + 0.015*child + 0.015*year + 0.014*policy + 0.014*interim + 0.014*insurance + 0.013*longterm + 0.012*follow + 0.012*premium
+0.057*service + 0.019*home + 0.019*health + 0.018*care + 0.016*provide + 0.014*day + 0.014*participant + 0.012*facility + 0.011*adult + 0.010*social
+0.052*physician + 0.022*insurer + 0.019*health + 0.015*individual + 0.014*participate + 0.012*practice + 0.011*substance + 0.009*request + 0.009*nurse + 0.009*information
+0.048*cpap + 0.031*provider + 0.026*consumer + 0.024*claimant + 0.024*proceed + 0.019*contract + 0.017*amount + 0.017*department + 0.016*civil + 0.016*transaction
+0.029*law + 0.016*court + 0.015*subdivision + 0.013*amend + 0.012*service + 0.011*chapter + 0.010*program + 0.010*follow + 0.009*commissioner + 0.009*provide
+0.026*health + 0.024*department + 0.023*care + 0.015*program + 0.014*service + 0.013*state + 0.012*plan + 0.011*federal + 0.010*provide + 0.010*fund
+0.082*health + 0.077*care + 0.037*provider + 0.026*patient + 0.014*law + 0.014*medical + 0.013*procedure + 0.013*commissioner + 0.011*plan + 0.011*representative
+0.024*department + 0.014*county + 0.013*provide + 0.012*pursuant + 0.011*subdivision + 0.011*license + 0.010*person + 0.010*fund + 0.010*state + 0.009*facility
+0.042*health + 0.027*plan + 0.023*care + 0.021*service + 0.021*insurance + 0.020*provide + 0.018*coverage + 0.014*benefit + 0.013*contract + 0.011*provider
+0.020*resource + 0.020*amount + 0.020*income + 0.019*spouse + 0.019*assistance + 0.017*support + 0.017*person + 0.017*determine + 0.013*child + 0.013*benefit
+0.047*tax + 0.026*credit + 0.026*taxpayer + 0.020*business + 0.016*new + 0.015*act + 0.014*taxable + 0.014*income + 0.013*state + 0.012*qualify
+0.027*board + 0.018*license + 0.011*applicant + 0.011*registration + 0.011*register + 0.010*practice + 0.010*fee + 0.008*education + 0.008*pursuant + 0.008*law
+
+-------------------------------------------------
+
+Category : 060-Health insurance  or  insurers
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline1
+topic_terms : 10
+batch_size : 200
+num_of_topics : 20
+batch_count : 10
+Topics : 
+0.064*license + 0.041*insert + 0.039*social + 0.034*strike + 0.033*appear + 0.031*clinical + 0.030*amend + 0.029*paragraph + 0.028*health + 0.028*general
+0.035*health + 0.027*care + 0.016*provide + 0.015*person + 0.013*make + 0.012*facility + 0.009*principal + 0.009*credit + 0.009*act + 0.008*decision
+0.041*health + 0.034*care + 0.020*provider + 0.019*service + 0.014*plan + 0.013*act + 0.012*insurance + 0.012*provide + 0.010*organization + 0.009*benefit
+0.062*pharmacy + 0.041*manager + 0.038*violation + 0.031*crime + 0.030*state + 0.026*benefit + 0.019*involve + 0.017*general + 0.017*law + 0.017*assembly
+0.027*department + 0.025*florida + 0.021*treatment + 0.018*rule + 0.018*license + 0.016*statutes + 0.014*amend + 0.014*patient + 0.013*subsection + 0.012*chapter
+0.030*income + 0.026*amount + 0.024*tax + 0.022*taxpayer + 0.020*property + 0.019*revenue + 0.018*code + 0.017*internal + 0.016*taxable + 0.015*gross
+0.024*agency + 0.020*state + 0.017*information + 0.017*service + 0.014*director + 0.014*office + 0.012*rcw + 0.011*technology + 0.010*management + 0.009*financial
+0.036*treatment + 0.033*person + 0.033*physician + 0.030*patient + 0.021*medical + 0.021*order + 0.019*health + 0.015*death + 0.014*lifesustaining + 0.014*care
+0.019*drug + 0.018*act + 0.018*secretary + 0.017*subsection + 0.014*health + 0.011*paragraph + 0.010*usc + 0.010*use + 0.010*information + 0.010*sec
+0.018*contract + 0.017*valuation + 0.016*policy + 0.016*marijuana + 0.014*issue + 0.012*insurance + 0.012*standard + 0.011*patient + 0.010*license + 0.010*date
+0.065*order + 0.048*support + 0.035*tribunal + 0.031*commonwealth + 0.023*state + 0.021*child + 0.017*issue + 0.015*enforcement + 0.015*foreign + 0.013*register
+0.037*dental + 0.030*board + 0.026*license + 0.016*person + 0.016*state + 0.015*health + 0.014*practice + 0.014*ksa + 0.013*kansas + 0.012*service
+0.029*state + 0.026*fund + 0.024*department + 0.013*program + 0.010*services + 0.009*carolina + 0.009*use + 0.008*fiscal + 0.008*local + 0.008*service
+0.021*general + 0.021*chapter + 0.020*health + 0.019*follow + 0.019*service + 0.019*provide + 0.018*insurance + 0.017*amend + 0.016*version + 0.015*coverage
+0.030*employee + 0.023*school + 0.023*benefit + 0.022*district + 0.021*rcw + 0.020*health + 0.019*state + 0.014*board + 0.013*plan + 0.010*include
+0.017*service + 0.016*program + 0.015*health + 0.014*trust + 0.012*individual + 0.011*treatment + 0.011*federal + 0.011*provide + 0.011*chapter + 0.010*person
+0.067*test + 0.033*coverage + 0.029*provide + 0.024*medical + 0.023*treatment + 0.023*infertility + 0.017*procedure + 0.015*result + 0.015*transfer + 0.014*paragraph
+0.025*child + 0.021*principal + 0.021*care + 0.020*juvenile + 0.015*power + 0.014*court + 0.014*attorney + 0.013*agent + 0.013*act + 0.011*person
+0.023*drug + 0.016*mean + 0.014*person + 0.013*medical + 0.013*practice + 0.012*nurse + 0.012*care + 0.011*act + 0.011*pharmacy + 0.011*license
+0.035*drug + 0.028*health + 0.028*benefit + 0.026*plan + 0.020*product + 0.017*cover + 0.016*provide + 0.016*chapter + 0.016*service + 0.015*device
+
+-------------------------------------------------
+
+Category : 060-Health insurance  or  insurers
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline1
+topic_terms : 10
+batch_size : 200
+num_of_topics : 20
+batch_count : 10
+Topics : 
+0.031*law + 0.030*health + 0.022*service + 0.016*subdivision + 0.015*amend + 0.015*public + 0.014*commissioner + 0.013*care + 0.011*act + 0.011*chapter
+0.017*medical + 0.017*program + 0.015*health + 0.011*compensation + 0.011*application + 0.010*school + 0.010*obesity + 0.010*office + 0.009*provide + 0.009*education
+0.020*practice + 0.019*physician + 0.017*license + 0.016*nurse + 0.016*act + 0.013*person + 0.012*mean + 0.011*health + 0.010*department + 0.010*school
+0.039*health + 0.026*plan + 0.026*coverage + 0.025*insurance + 0.024*drug + 0.019*service + 0.019*provide + 0.017*benefit + 0.015*policy + 0.014*contract
+0.025*fund + 0.024*state + 0.014*school + 0.014*expense + 0.014*appropriation + 0.012*operating + 0.011*total + 0.011*indiana + 0.009*program + 0.008*fee
+0.060*health + 0.024*community + 0.022*trust + 0.020*center + 0.017*care + 0.016*department + 0.015*massachusetts + 0.013*tax + 0.013*credit + 0.012*state
+0.043*care + 0.029*service + 0.024*provide + 0.022*health + 0.017*nurse + 0.015*hospital + 0.014*facility + 0.011*provider + 0.010*license + 0.010*medical
+0.028*service + 0.027*fund + 0.022*program + 0.020*department + 0.016*use + 0.015*state + 0.014*appropriate + 0.013*care + 0.013*fiscal + 0.012*health
+0.045*school + 0.028*private + 0.023*statute + 0.021*read + 0.017*pupil + 0.015*employee + 0.013*amend + 0.013*program + 0.010*state + 0.010*position
+0.028*care + 0.027*health + 0.025*review + 0.022*service + 0.020*provider + 0.019*utilization + 0.013*carrier + 0.013*determination + 0.012*subdivision + 0.011*enrollee
+0.032*patient + 0.021*physician + 0.017*care + 0.017*drug + 0.016*medical + 0.015*health + 0.013*individual + 0.011*request + 0.011*make + 0.010*chapter
+0.027*defendant + 0.024*order + 0.024*code + 0.020*support + 0.020*state + 0.019*supervision + 0.018*community + 0.016*article + 0.013*offense + 0.012*court
+0.024*school + 0.018*law + 0.016*subdivision + 0.016*teacher + 0.012*district + 0.011*pursuant + 0.010*provide + 0.010*paragraph + 0.010*board + 0.010*service
+0.033*department + 0.031*home + 0.016*nurse + 0.015*resident + 0.012*care + 0.011*state + 0.010*agency + 0.010*health + 0.010*facility + 0.010*provide
+0.051*dental + 0.029*hygiene + 0.022*service + 0.016*practice + 0.016*practitioner + 0.015*license + 0.014*dentist + 0.013*participant + 0.012*hygienist + 0.012*board
+0.046*service + 0.029*health + 0.026*person + 0.022*home + 0.021*hospice + 0.019*violation + 0.017*provide + 0.017*assistance + 0.017*law + 0.015*personal
+0.028*person + 0.026*health + 0.023*agent + 0.022*claim + 0.016*care + 0.014*make + 0.013*chapter + 0.013*insurer + 0.013*court + 0.012*follow
+0.028*credit + 0.028*tax + 0.020*code + 0.019*revised + 0.013*amount + 0.013*provide + 0.013*division + 0.010*state + 0.010*income + 0.009*child
+0.046*subdivision + 0.028*district + 0.023*revenue + 0.018*minnesota + 0.018*school + 0.014*statutes + 0.013*income + 0.012*fiscal + 0.012*amend + 0.011*sec
+0.028*insurance + 0.018*health + 0.014*treatment + 0.013*act + 0.012*person + 0.012*state + 0.010*order + 0.010*member + 0.010*provide + 0.009*care
+
+-------------------------------------------------
+
+Category : 060-Health insurance  or  insurers
+passes : 30
+input_path : /media/inno/01D04251141467101/WKData/icspipeline1
+topic_terms : 10
+batch_size : 200
+num_of_topics : 20
+batch_count : 10
+Topics : 
+0.026*property + 0.021*corporation + 0.015*use + 0.013*public + 0.013*purpose + 0.010*tax + 0.010*pharmacy + 0.010*operate + 0.010*business + 0.009*income
+0.035*health + 0.025*care + 0.023*service + 0.018*commission + 0.012*code + 0.012*program + 0.011*chapter + 0.010*committee + 0.010*human + 0.010*provide
+0.041*care + 0.025*health + 0.018*vermont + 0.018*service + 0.014*individual + 0.011*resident + 0.011*state + 0.011*provide + 0.009*include + 0.009*vsa
+0.030*program + 0.024*state + 0.016*tenncare + 0.015*child + 0.014*hospital + 0.013*care + 0.013*title + 0.012*network + 0.012*act + 0.010*mccc
+0.047*plan + 0.043*employee + 0.018*act + 0.015*paragraph + 0.015*subsection + 0.015*code + 0.014*follow + 0.013*information + 0.012*provide + 0.012*amend
+0.040*school + 0.023*subdivision + 0.019*education + 0.019*student + 0.018*district + 0.014*minnesota + 0.013*program + 0.011*commissioner + 0.011*child + 0.011*service
+0.043*information + 0.037*health + 0.035*plan + 0.028*issuer + 0.026*report + 0.023*insurance + 0.021*request + 0.020*claim + 0.016*date + 0.014*provide
+0.087*health + 0.051*care + 0.033*provide + 0.030*service + 0.030*act + 0.028*version + 0.025*bill + 0.025*provider + 0.024*insurance + 0.022*general
+0.038*teacher + 0.027*board + 0.014*service + 0.013*trust + 0.013*act + 0.013*leave + 0.012*effective + 0.011*license + 0.011*federal + 0.009*health
+0.069*nurse + 0.056*practice + 0.049*advance + 0.040*language + 0.038*register + 0.029*tennessee + 0.024*annotated + 0.021*substitute + 0.020*code + 0.020*delete
+0.053*drug + 0.021*prescription + 0.020*mean + 0.020*pharmacy + 0.014*compound + 0.012*include + 0.011*dispense + 0.011*product + 0.010*board + 0.009*substance
+0.074*subdivision + 0.040*minnesota + 0.029*commissioner + 0.029*data + 0.024*mnsure + 0.024*statutes + 0.021*paragraph + 0.019*subd + 0.013*amend + 0.013*legislature
+0.043*health + 0.030*insurance + 0.029*policy + 0.024*chapter + 0.023*benefit + 0.020*service + 0.019*coverage + 0.018*provide + 0.015*general + 0.012*follow
+0.060*health + 0.052*coverage + 0.050*plan + 0.035*carrier + 0.029*benefit + 0.027*individual + 0.026*employer + 0.026*insurance + 0.021*small + 0.019*group
+0.040*assistance + 0.030*program + 0.028*department + 0.016*benefit + 0.015*child + 0.015*food + 0.014*person + 0.014*participant + 0.012*supplemental + 0.012*nutrition
+0.060*health + 0.052*ors + 0.043*plan + 0.029*service + 0.017*benefit + 0.017*department + 0.016*oregon + 0.013*care + 0.012*organization + 0.012*group
+0.030*hospital + 0.030*health + 0.026*facility + 0.023*license + 0.019*department + 0.013*state + 0.012*care + 0.012*agency + 0.010*service + 0.009*person
+0.026*health + 0.022*care + 0.020*license + 0.019*practice + 0.018*board + 0.017*state + 0.015*patient + 0.014*service + 0.014*mean + 0.014*medical
+0.028*commissioner + 0.020*payment + 0.019*amount + 0.017*subdivision + 0.016*county + 0.015*fund + 0.014*pay + 0.013*state + 0.012*management + 0.012*budget
+0.025*violence + 0.017*act + 0.016*individual + 0.016*date + 0.015*employee + 0.014*sexual + 0.014*domestic + 0.012*assault + 0.010*provide + 0.009*stalk
+
+-------------------------------------------------
