@@ -7,8 +7,6 @@ object TextTools {
 
   def lemmatizeText(txt: String) = new Sentence(txt).lemmas().toArray().mkString(" ")
 
-//  def lemmatizeWord(txt: String) = new Sentence(txt).lemmas().toArray().mkString(" ")
-
   def getPOSTagsText(txt: String): String = {
     val sent = new Sentence(txt)
     val tags = sent.posTags().toArray()
@@ -18,20 +16,9 @@ object TextTools {
     pos_tags.mkString(",")
   }
 
-//  def getPOSTagWord(txt: String): String = {
-//    val sent = new Sentence(txt)
-//    val tags = sent.posTags().toArray()
-//    val words = sent.words().toArray()
-//    var pos_tags = new ListBuffer[String]
-//    for ((wrd,i) <- words.view.zipWithIndex) pos_tags += wrd.toString+"|"+tags(i).toString
-//    pos_tags.mkString(",")
-//  }
-
-
-
-//  def main(args: Array[String]) {
-//    val txt = "running runner runs youngest younger higher highest"
-//    println(posTagging(txt))
-//  }
+  def main(args: Array[String]) {
+    val txt = "running runner runs youngest younger higher highest"
+    println(getPOSTagsText(txt))
+  }
 
 }

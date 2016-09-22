@@ -1,8 +1,5 @@
 package TextUtilities
 
-/**
-  * Created by Shivam Bansal on 7/1/16.
-  * */
 
 import java.io.PrintWriter
 
@@ -18,11 +15,11 @@ object TextCleaner {
   metaRegex += ("white_space" -> "\\s+")
   metaRegex += ("small_words" -> "\\b[a-zA-Z0-9]{1,2}\\b")
   metaRegex += ("urls" -> "(https?\\://)\\S+")
-  //  expressionRegex, mentionsRegex, hashtagsRegex
+  // TODO - expressionRegex, mentionsRegex, hashtagsRegex
 
   var metaStopwords = Map[String, List[String]]()
   metaStopwords += ("english" -> Source.fromFile("src/main/resources/stopwords.txt").getLines().toList )
-  //  locationsStopWords, personStopWords
+  // TODO - locationsStopWords, personStopWords
 
 
   def removeRegex(txt: String, flag: String): String = {
@@ -89,11 +86,4 @@ object TextCleaner {
       new PrintWriter(output_path+fname) { write(cleaned); close }
     })
   }
-
-
-//  def main(args: Array[String]) {
-//    val string = "how hello http://sdf.com"
-//    println(removeCustomWords(string,"english"))
-//  }
-
 }
