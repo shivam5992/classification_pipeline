@@ -27,14 +27,12 @@ object ModelArchitecture {
       val row = x.split("#")
       (row(0),preProcessText(row(1)))
     })
-
-//    tweetsRDD.foreach(println)
+    tweetsRDD.foreach(println)
 
     val trainingDF = sqlContext.createDataFrame(tweetsRDD).toDF("category", "cleaned_text")
     val Array(trainingData, testData) = trainingDF.randomSplit(Array(0.7, 0.3))
     trainingData.show()
-//
-//
+
 //    // Model Architecture
     val indexer = new StringIndexer().setInputCol("category").setOutputCol("label")
     val tokenizer = new Tokenizer().setInputCol("cleaned_text").setOutputCol("tokens")
@@ -47,13 +45,13 @@ object ModelArchitecture {
 
 
 // Testing Data
-val testing = "data/test.txt"
-    val testRDD = sc.textFile(testing).map(x => {
-      val row = x.split("#")
-      (1,preProcessText(row(1)))
-    })
-
-    val testingDF = sqlContext.createDataFrame(testRDD).toDF("id","cleaned_text")
+//val testing = "data/test.txt"
+//    val testRDD = sc.textFile(testing).map(x => {
+//      val row = x.split("#")
+//      (1,preProcessText(row(1)))
+//    })
+//
+//    val testingDF = sqlContext.createDataFrame(testRDD).toDF("id","cleaned_text")
 
 
     val prediction = model.transform(testData).select("cleaned_text","category","prediction")
