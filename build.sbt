@@ -1,4 +1,4 @@
-name := "WoltersKluver"
+name := "SampleApp"
 version := "1.0"
 scalaVersion := "2.11.8"
 
