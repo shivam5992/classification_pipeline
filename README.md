@@ -14,6 +14,6 @@
 
 * DocumentClassification/ModelArchitecture.scala - contains the comple classification architecture
 
-## Reference 
+## Online Article 
 
-- To be added
+http://analyticsindiamag.com/document-classification-using-apache-spark-scala/
